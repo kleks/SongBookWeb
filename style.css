@@ -1,0 +1,51 @@
+body {
+    font-family: "Georgia", Serif;
+    font-size: 13px;
+}
+
+#contentDiv {
+    width: 100%;
+    background-color: lightblue;
+}
+
+table,
+tr,
+td {
+    margin: 0px;
+    padding: 0px;
+    /*border: solid orange 1px;*/
+}
+
+td {
+    width: 20px;
+    height: 20px;
+    white-space: pre;
+}
+
+div.vex-tabdiv {
+    height: 50px;
+
+    overflow: visible;
+    position: sticky;
+    margin-top: -19px;
+}
+
+div.vex-tabdiv .vex-canvas {
+    float: ldeft;
+}
+
+div.vex-tabdiv .editor {
+    visibility: hidden;
+    background-color: green;
+}
+
+div.vex-tabdiv .editor-error {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 8px;
+    color: white;
+    background-color: red;
+    white-space: pre;
+    position: sticky;
+    margin-top: -200px;
+    background-color: red;
+}
