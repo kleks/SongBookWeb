@@ -1,0 +1,2389 @@
+chordsDictionary = {
+    "As7": {
+        "txt": "As7", "base": "as", "type": "X7", "html": "As<sup>7</sup>"
+    },
+    "as9": {
+        "txt": "as9",
+        "base": "as",
+        "type": "x9",
+        "html": "as<sup>9</sup>"
+    },
+    "eisis": {
+        "txt": "eisis",
+        "type": "x",
+        "html": "eisis",
+        "base": "eisis"
+    },
+    "cis9": {
+        "txt": "cis9",
+        "base": "cis",
+        "html": "cis<sup>9</sup>",
+        "type": "x9"
+    },
+    "As": {
+        "txt": "As",
+        "base": "as",
+        "type": "X",
+        "html": "As"
+    },
+    "C7+": {
+        "txt": "C7+",
+        "base": "c",
+        "type": "X7+",
+        "html": "C<sup>7+</sup>"
+    },
+    "fis9": {
+        "txt": "fis9",
+        "type": "x9",
+        "html": "fis<sup>9</sup>",
+        "base": "fis"
+    },
+    "eisis7": {
+        "txt": "eisis7",
+        "base": "eisis",
+        "html": "eisis<sup>7</sup>",
+        "type": "x7"
+    },
+    "As9": {
+        "txt": "As9",
+        "base": "as",
+        "html": "As<sup>9</sup>",
+        "type": "X9"
+    },
+    "cisis4": {
+        "txt": "cisis4",
+        "type": "x4",
+        "html": "cisis<sup>4</sup>",
+        "base": "cisis"
+    },
+    "Eses": {
+        "txt": "Eses",
+        "base": "eses",
+        "html": "Eses",
+        "type": "X"
+    },
+    "Gisis7+": {
+        "txt": "Gisis7+",
+        "base": "gisis",
+        "html": "Gisis<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "es7+": {
+        "txt": "es7+",
+        "base": "es",
+        "type": "x7+",
+        "html": "es<sup>7+</sup>"
+    },
+    "cisis7+": {
+        "txt": "cisis7+",
+        "base": "cisis",
+        "type": "x7+",
+        "html": "cisis<sup>7+</sup>"
+    },
+    "deses7": {
+        "txt": "deses7",
+        "type": "x7",
+        "html": "deses<sup>7</sup>",
+        "base": "deses"
+    },
+    "hisis7": {
+        "txt": "hisis7",
+        "base": "hisis",
+        "type": "x7",
+        "html": "hisis<sup>7</sup>"
+    },
+    "beses4": {
+        "txt": "beses4",
+        "base": "beses",
+        "type": "x4",
+        "html": "beses<sup>4</sup>"
+    },
+    "d7+": {
+        "txt": "d7+",
+        "base": "d",
+        "html": "d<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "fisis4": {
+        "txt": "fisis4",
+        "base": "fisis",
+        "html": "fisis<sup>4</sup>",
+        "type": "x4"
+    },
+    "Deses7+": {
+        "txt": "Deses7+",
+        "base": "deses",
+        "html": "Deses<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "geses7+": {
+        "txt": "geses7+",
+        "type": "x7+",
+        "html": "geses<sup>7+</sup>",
+        "base": "geses"
+    },
+    "Eisis7": {
+        "txt": "Eisis7",
+        "base": "eisis",
+        "type": "X7",
+        "html": "Eisis<sup>7</sup>"
+    },
+    "His7+": {
+        "txt": "His7+",
+        "base": "his",
+        "type": "X7+",
+        "html": "His<sup>7+</sup>"
+    },
+    "geses7": {
+        "txt": "geses7",
+        "base": "geses",
+        "html": "geses<sup>7</sup>",
+        "type": "x7"
+    },
+    "ces4": {
+        "txt": "ces4",
+        "base": "ces",
+        "html": "ces<sup>4</sup>",
+        "type": "x4"
+    },
+    "D7+": {
+        "txt": "D7+",
+        "base": "d",
+        "type": "X7+",
+        "html": "D<sup>7+</sup>"
+    },
+    "Cisis4": {
+        "txt": "Cisis4",
+        "type": "X4",
+        "html": "Cisis<sup>4</sup>",
+        "base": "cisis"
+    },
+    "Ais4": {
+        "txt": "Ais4",
+        "type": "X4",
+        "html": "Ais<sup>4</sup>",
+        "base": "ais"
+    },
+    "fes4": {
+        "txt": "fes4",
+        "base": "fes",
+        "html": "fes<sup>4</sup>",
+        "type": "x4"
+    },
+    "Deses7": {
+        "txt": "Deses7",
+        "type": "X7",
+        "html": "Deses<sup>7</sup>",
+        "base": "deses"
+    },
+    "Dis4": {
+        "txt": "Dis4",
+        "type": "X4",
+        "html": "Dis<sup>4</sup>",
+        "base": "dis"
+    },
+    "Hisis7": {
+        "txt": "Hisis7",
+        "base": "hisis",
+        "type": "X7",
+        "html": "Hisis<sup>7</sup>"
+    },
+    "Beses4": {
+        "txt": "Beses4",
+        "type": "X4",
+        "html": "Beses<sup>4</sup>",
+        "base": "beses"
+    },
+    "asas": {
+        "txt": "asas",
+        "base": "asas",
+        "html": "asas",
+        "type": "x"
+    },
+    "Fisis4": {
+        "txt": "Fisis4",
+        "base": "fisis",
+        "html": "Fisis<sup>4</sup>",
+        "type": "X4"
+    },
+    "Gis4": {
+        "txt": "Gis4",
+        "base": "gis",
+        "html": "Gis<sup>4</sup>",
+        "type": "X4"
+    },
+    "Asas4": {
+        "txt": "Asas4",
+        "type": "X4",
+        "html": "Asas<sup>4</sup>",
+        "base": "asas"
+    },
+    "e7+": {
+        "txt": "e7+",
+        "base": "e",
+        "html": "e<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "Geses7": {
+        "txt": "Geses7",
+        "base": "geses",
+        "html": "Geses<sup>7</sup>",
+        "type": "X7"
+    },
+    "Eis7+": {
+        "txt": "Eis7+",
+        "type": "X7+",
+        "html": "Eis<sup>7+</sup>",
+        "base": "eis"
+    },
+    "E7+": {
+        "txt": "E7+",
+        "base": "e",
+        "html": "E<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "ces7": {
+        "txt": "ces7",
+        "base": "ces",
+        "html": "ces<sup>7</sup>",
+        "type": "x7"
+    },
+    "Es": {
+        "txt": "Es",
+        "base": "es",
+        "html": "Es",
+        "type": "X"
+    },
+    "his7+": {
+        "txt": "his7+",
+        "base": "his",
+        "html": "his<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "Ais7": {
+        "txt": "Ais7",
+        "base": "ais",
+        "html": "Ais<sup>7</sup>",
+        "type": "X7"
+    },
+    "fes7": {
+        "txt": "fes7",
+        "base": "fes",
+        "type": "x7",
+        "html": "fes<sup>7</sup>"
+    },
+    "Fisis7+": {
+        "txt": "Fisis7+",
+        "base": "fisis",
+        "html": "Fisis<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "Dis7": {
+        "txt": "Dis7",
+        "base": "dis",
+        "html": "Dis<sup>7</sup>",
+        "type": "X7"
+    },
+    "f7+": {
+        "txt": "f7+",
+        "base": "f",
+        "html": "f<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "ais": {
+        "txt": "ais",
+        "base": "ais",
+        "type": "x",
+        "html": "ais"
+    },
+    "as": {
+        "txt": "as",
+        "base": "as",
+        "type": "x",
+        "html": "as"
+    },
+    "es4": {
+        "txt": "es4",
+        "type": "x4",
+        "html": "es<sup>4</sup>",
+        "base": "es"
+    },
+    "Gis7": {
+        "txt": "Gis7",
+        "type": "X7",
+        "html": "Gis<sup>7</sup>",
+        "base": "gis"
+    },
+    "Ais": {
+        "txt": "Ais",
+        "type": "X",
+        "html": "Ais",
+        "base": "ais"
+    },
+    "F7+": {
+        "txt": "F7+",
+        "base": "f",
+        "html": "F<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "Ceses7+": {
+        "txt": "Ceses7+",
+        "base": "ceses",
+        "html": "Ceses<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "Es4": {
+        "txt": "Es4",
+        "base": "es",
+        "type": "X4",
+        "html": "Es<sup>4</sup>"
+    },
+    "asas4": {
+        "txt": "asas4",
+        "base": "asas",
+        "type": "x4",
+        "html": "asas<sup>4</sup>"
+    },
+    "feses7+": {
+        "txt": "feses7+",
+        "type": "x7+",
+        "html": "feses<sup>7+</sup>",
+        "base": "feses"
+    },
+    "ces9": {
+        "txt": "ces9",
+        "type": "x9",
+        "base": "ces",
+        "html": "ces<sup>9</sup>"
+    },
+    "eis4": {
+        "txt": "eis4",
+        "base": "eis",
+        "html": "eis<sup>4</sup>",
+        "type": "x4"
+    },
+    "Ais9": {
+        "txt": "Ais9",
+        "base": "ais",
+        "html": "Ais<sup>9</sup>",
+        "type": "X9"
+    },
+    "eis7+": {
+        "txt": "eis7+",
+        "base": "eis",
+        "html": "eis<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "fes9": {
+        "txt": "fes9",
+        "base": "fes",
+        "type": "x9",
+        "html": "fes<sup>9</sup>"
+    },
+    "es7": {
+        "txt": "es7",
+        "base": "es",
+        "type": "x7",
+        "html": "es<sup>7</sup>"
+    },
+    "his4": {
+        "txt": "his4",
+        "base": "his",
+        "html": "his<sup>4</sup>",
+        "type": "x4"
+    },
+    "eisis9": {
+        "txt": "eisis9",
+        "type": "x9",
+        "html": "eisis<sup>9</sup>",
+        "base": "eisis"
+    },
+    "Dis9": {
+        "txt": "Dis9",
+        "base": "dis",
+        "html": "Dis<sup>9</sup>",
+        "type": "X9"
+    },
+    "Fisis": {
+        "txt": "Fisis",
+        "type": "X",
+        "html": "Fisis",
+        "base": "fisis"
+    },
+    "g7+": {
+        "txt": "g7+",
+        "type": "x7+",
+        "html": "g<sup>7+</sup>",
+        "base": "g"
+    },
+    "Beses": {
+        "txt": "Beses",
+        "base": "beses",
+        "html": "Beses",
+        "type": "X"
+    },
+    "Gis9": {
+        "txt": "Gis9",
+        "base": "gis",
+        "type": "X9",
+        "html": "Gis<sup>9</sup>"
+    },
+    "Es7": {
+        "txt": "Es7",
+        "type": "X7",
+        "html": "Es<sup>7</sup>",
+        "base": "es"
+    },
+    "deses9": {
+        "txt": "deses9",
+        "base": "deses",
+        "html": "deses<sup>9</sup>",
+        "type": "x9"
+    },
+    "es9": {
+        "txt": "es9",
+        "type": "x9",
+        "html": "es<sup>9</sup>",
+        "base": "es"
+    },
+    "hisis9": {
+        "txt": "hisis9",
+        "base": "hisis",
+        "html": "hisis<sup>9</sup>",
+        "type": "x9"
+    },
+    "G7+": {
+        "txt": "G7+",
+        "base": "g",
+        "type": "X7+",
+        "html": "G<sup>7+</sup>"
+    },
+    "Asas7": {
+        "txt": "Asas7",
+        "base": "asas",
+        "html": "Asas<sup>7</sup>",
+        "type": "X7"
+    },
+    "Eisis9": {
+        "txt": "Eisis9",
+        "base": "eisis",
+        "html": "Eisis<sup>9</sup>",
+        "type": "X9"
+    },
+    "Es9": {
+        "txt": "Es9",
+        "base": "es",
+        "html": "Es<sup>9</sup>",
+        "type": "X9"
+    },
+    "geses9": {
+        "txt": "geses9",
+        "base": "geses",
+        "html": "geses<sup>9</sup>",
+        "type": "x9"
+    },
+    "Eses4": {
+        "txt": "Eses4",
+        "type": "X4",
+        "html": "Eses<sup>4</sup>",
+        "base": "eses"
+    },
+    "Cisis": {
+        "txt": "Cisis",
+        "base": "cisis",
+        "html": "Cisis",
+        "type": "X"
+    },
+    "Des4": {
+        "txt": "Des4",
+        "base": "des",
+        "html": "Des<sup>4</sup>",
+        "type": "X4"
+    },
+    "eis7": {
+        "txt": "eis7",
+        "base": "eis",
+        "type": "x7",
+        "html": "eis<sup>7</sup>"
+    },
+    "Deses9": {
+        "txt": "Deses9",
+        "type": "X9",
+        "html": "Deses<sup>9</sup>",
+        "base": "deses"
+    },
+    "cis": {
+        "txt": "cis",
+        "base": "cis",
+        "html": "cis",
+        "type": "x"
+    },
+    "h7+": {
+        "txt": "h7+",
+        "base": "h",
+        "html": "h<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "Hisis9": {
+        "txt": "Hisis9",
+        "base": "hisis",
+        "type": "X9",
+        "html": "Hisis<sup>9</sup>"
+    },
+    "Ges4": {
+        "txt": "Ges4",
+        "base": "ges",
+        "html": "Ges<sup>4</sup>",
+        "type": "X4"
+    },
+    "his7": {
+        "txt": "his7",
+        "type": "x7",
+        "html": "his<sup>7</sup>",
+        "base": "his"
+    },
+    "Eisis7+": {
+        "txt": "Eisis7+",
+        "base": "eisis",
+        "html": "Eisis<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "Cis": {
+        "txt": "Cis",
+        "base": "cis",
+        "type": "X",
+        "html": "Cis"
+    },
+    "H7+": {
+        "txt": "H7+",
+        "base": "h",
+        "html": "H<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "hisis7+": {
+        "txt": "hisis7+",
+        "type": "x7+",
+        "html": "hisis<sup>7+</sup>",
+        "base": "hisis"
+    },
+    "Geses9": {
+        "txt": "Geses9",
+        "base": "geses",
+        "type": "X9",
+        "html": "Geses<sup>9</sup>"
+    },
+    "aisis7+": {
+        "txt": "aisis7+",
+        "type": "x7+",
+        "html": "aisis<sup>7+</sup>",
+        "base": "aisis"
+    },
+    "es": {
+        "txt": "es",
+        "base": "es",
+        "type": "x",
+        "html": "es"
+    },
+    "beses": {
+        "txt": "beses",
+        "base": "beses",
+        "type": "x",
+        "html": "beses"
+    },
+    "fisis": {
+        "txt": "fisis",
+        "base": "fisis",
+        "type": "x",
+        "html": "fisis"
+    },
+    "cisis7": {
+        "txt": "cisis7",
+        "base": "cisis",
+        "html": "cisis<sup>7</sup>",
+        "type": "x7"
+    },
+    "Beses7+": {
+        "txt": "Beses7+",
+        "base": "beses",
+        "html": "Beses<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "aisis4": {
+        "txt": "aisis4",
+        "base": "aisis",
+        "html": "aisis<sup>4</sup>",
+        "type": "x4"
+    },
+    "eis9": {
+        "txt": "eis9",
+        "base": "eis",
+        "html": "eis<sup>9</sup>",
+        "type": "x9"
+    },
+    "as7+": {
+        "txt": "as7+",
+        "base": "as",
+        "type": "x7+",
+        "html": "as<sup>7+</sup>"
+    },
+    "beses7": {
+        "txt": "beses7",
+        "base": "beses",
+        "html": "beses<sup>7</sup>",
+        "type": "x7"
+    },
+    "dis": {
+        "txt": "dis",
+        "base": "dis",
+        "type": "x",
+        "html": "dis"
+    },
+    "fisis7": {
+        "txt": "fisis7",
+        "base": "fisis",
+        "type": "x7",
+        "html": "fisis<sup>7</sup>"
+    },
+    "asas7": {
+        "txt": "asas7",
+        "base": "asas",
+        "html": "asas<sup>7</sup>",
+        "type": "x7"
+    },
+    "his9": {
+        "txt": "his9",
+        "base": "his",
+        "html": "his<sup>9</sup>",
+        "type": "x9"
+    },
+    "disis4": {
+        "txt": "disis4",
+        "base": "disis",
+        "html": "disis<sup>4</sup>",
+        "type": "x4"
+    },
+    "eses4": {
+        "txt": "eses4",
+        "base": "eses",
+        "html": "eses<sup>4</sup>",
+        "type": "x4"
+    },
+    "Asas9": {
+        "txt": "Asas9",
+        "type": "X9",
+        "html": "Asas<sup>9</sup>",
+        "base": "asas"
+    },
+    "Des7": {
+        "txt": "Des7",
+        "base": "des",
+        "type": "X7",
+        "html": "Des<sup>7</sup>"
+    },
+    "cisis": {
+        "txt": "cisis",
+        "type": "x",
+        "html": "cisis",
+        "base": "cisis"
+    },
+    "Cisis7": {
+        "txt": "Cisis7",
+        "type": "X7",
+        "html": "Cisis<sup>7</sup>",
+        "base": "cisis"
+    },
+    "Ges7": {
+        "txt": "Ges7",
+        "type": "X7",
+        "html": "Ges<sup>7</sup>",
+        "base": "ges"
+    },
+    "Dis": {
+        "txt": "Dis",
+        "base": "dis",
+        "type": "X",
+        "html": "Dis"
+    },
+    "Aisis4": {
+        "txt": "Aisis4",
+        "base": "aisis",
+        "type": "X4",
+        "html": "Aisis<sup>4</sup>"
+    },
+    "ceses4": {
+        "txt": "ceses4",
+        "base": "ceses",
+        "html": "ceses<sup>4</sup>",
+        "type": "x4"
+    },
+    "gisis4": {
+        "txt": "gisis4",
+        "base": "gisis",
+        "html": "gisis<sup>4</sup>",
+        "type": "x4"
+    },
+    "Beses7": {
+        "txt": "Beses7",
+        "base": "beses",
+        "html": "Beses<sup>7</sup>",
+        "type": "X7"
+    },
+    "Fisis7": {
+        "txt": "Fisis7",
+        "base": "fisis",
+        "html": "Fisis<sup>7</sup>",
+        "type": "X7"
+    },
+    "Disis4": {
+        "txt": "Disis4",
+        "base": "disis",
+        "type": "X4",
+        "html": "Disis<sup>4</sup>"
+    },
+    "feses4": {
+        "txt": "feses4",
+        "type": "x4",
+        "html": "feses<sup>4</sup>",
+        "base": "feses"
+    },
+    "Cis4": {
+        "txt": "Cis4",
+        "type": "X4",
+        "html": "Cis<sup>4</sup>",
+        "base": "cis"
+    },
+    "eis": {
+        "txt": "eis",
+        "type": "x",
+        "html": "eis",
+        "base": "eis"
+    },
+    "Des9": {
+        "txt": "Des9",
+        "type": "X9",
+        "html": "Des<sup>9</sup>",
+        "base": "des"
+    },
+    "Fis4": {
+        "txt": "Fis4",
+        "base": "fis",
+        "type": "X4",
+        "html": "Fis<sup>4</sup>"
+    },
+    "Eses7": {
+        "txt": "Eses7",
+        "type": "X7",
+        "html": "Eses<sup>7</sup>",
+        "base": "eses"
+    },
+    "Ges9": {
+        "txt": "Ges9",
+        "base": "ges",
+        "type": "X9",
+        "html": "Ges<sup>9</sup>"
+    },
+    "Fis7+": {
+        "txt": "Fis7+",
+        "base": "fis",
+        "type": "X7+",
+        "html": "Fis<sup>7+</sup>"
+    },
+    "Ceses4": {
+        "txt": "Ceses4",
+        "base": "ceses",
+        "type": "X4",
+        "html": "Ceses<sup>4</sup>"
+    },
+    "Gisis4": {
+        "txt": "Gisis4",
+        "base": "gisis",
+        "type": "X4",
+        "html": "Gisis<sup>4</sup>"
+    },
+    "Eis": {
+        "txt": "Eis",
+        "base": "eis",
+        "type": "X",
+        "html": "Eis"
+    },
+    "Disis7+": {
+        "txt": "Disis7+",
+        "base": "disis",
+        "html": "Disis<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "asas9": {
+        "txt": "asas9",
+        "base": "asas",
+        "html": "asas<sup>9</sup>",
+        "type": "x9"
+    },
+    "gisis7+": {
+        "txt": "gisis7+",
+        "base": "gisis",
+        "html": "gisis<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "Feses4": {
+        "txt": "Feses4",
+        "base": "feses",
+        "type": "X4",
+        "html": "Feses<sup>4</sup>"
+    },
+    "Fes7+": {
+        "txt": "Fes7+",
+        "base": "fes",
+        "type": "X7+",
+        "html": "Fes<sup>7+</sup>"
+    },
+    "eses": {
+        "txt": "eses",
+        "type": "x",
+        "html": "eses",
+        "base": "eses"
+    },
+    "fis": {
+        "txt": "fis",
+        "type": "x",
+        "html": "fis",
+        "base": "fis"
+    },
+    "deses7+": {
+        "txt": "deses7+",
+        "base": "deses",
+        "type": "x7+",
+        "html": "deses<sup>7+</sup>"
+    },
+    "Cis7+": {
+        "txt": "Cis7+",
+        "base": "cis",
+        "type": "X7+",
+        "html": "Cis<sup>7+</sup>"
+    },
+    "Feses": {
+        "txt": "Feses",
+        "base": "feses",
+        "type": "X",
+        "html": "Feses"
+    },
+    "Cis7": {
+        "txt": "Cis7",
+        "type": "X7",
+        "html": "Cis<sup>7</sup>",
+        "base": "cis"
+    },
+    "Fis": {
+        "txt": "Fis",
+        "base": "fis",
+        "html": "Fis",
+        "type": "X"
+    },
+    "A4": {
+        "txt": "A4",
+        "type": "X4",
+        "html": "A<sup>4</sup>",
+        "base": "a"
+    },
+    "Fis7": {
+        "txt": "Fis7",
+        "base": "fis",
+        "type": "X7",
+        "html": "Fis<sup>7</sup>"
+    },
+    "Ces7+": {
+        "txt": "Ces7+",
+        "base": "ces",
+        "type": "X7+",
+        "html": "Ces<sup>7+</sup>"
+    },
+    "eses7+": {
+        "txt": "eses7+",
+        "base": "eses",
+        "html": "eses<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "eses7": {
+        "txt": "eses7",
+        "base": "eses",
+        "html": "eses<sup>7</sup>",
+        "type": "x7"
+    },
+    "A": {
+        "txt": "A",
+        "base": "a",
+        "type": "X",
+        "html": "A"
+    },
+    "fis7+": {
+        "txt": "fis7+",
+        "type": "x7+",
+        "html": "fis<sup>7+</sup>",
+        "base": "fis"
+    },
+    "B": {
+        "txt": "B",
+        "type": "X",
+        "html": "B",
+        "base": "b"
+    },
+    "ais4": {
+        "txt": "ais4",
+        "base": "ais",
+        "html": "ais<sup>4</sup>",
+        "type": "x4"
+    },
+    "A7": {
+        "txt": "A7",
+        "base": "a",
+        "html": "A<sup>7</sup>",
+        "type": "X7"
+    },
+    "C": {
+        "txt": "C",
+        "type": "X",
+        "html": "C",
+        "base": "c"
+    },
+    "Eses9": {
+        "txt": "Eses9",
+        "base": "eses",
+        "type": "X9",
+        "html": "Eses<sup>9</sup>"
+    },
+    "cisis9": {
+        "txt": "cisis9",
+        "type": "x9",
+        "html": "cisis<sup>9</sup>",
+        "base": "cisis"
+    },
+    "dis4": {
+        "txt": "dis4",
+        "base": "dis",
+        "type": "x4",
+        "html": "dis<sup>4</sup>"
+    },
+    "gis": {
+        "txt": "gis",
+        "base": "gis",
+        "html": "gis",
+        "type": "x"
+    },
+    "Gisis": {
+        "txt": "Gisis",
+        "base": "gisis",
+        "html": "Gisis",
+        "type": "X"
+    },
+    "E": {
+        "txt": "E",
+        "base": "e",
+        "html": "E",
+        "type": "X"
+    },
+    "B4": {
+        "txt": "B4",
+        "base": "b",
+        "type": "X4",
+        "html": "B<sup>4</sup>"
+    },
+    "F": {
+        "txt": "F",
+        "base": "f",
+        "html": "F",
+        "type": "X"
+    },
+    "Ceses": {
+        "txt": "Ceses",
+        "base": "ceses",
+        "html": "Ceses",
+        "type": "X"
+    },
+    "A9": {
+        "txt": "A9",
+        "base": "a",
+        "html": "A<sup>9</sup>",
+        "type": "X9"
+    },
+    "Cis9": {
+        "txt": "Cis9",
+        "base": "cis",
+        "type": "X9",
+        "html": "Cis<sup>9</sup>"
+    },
+    "G": {
+        "txt": "G",
+        "base": "g",
+        "type": "X",
+        "html": "G"
+    },
+    "fes7+": {
+        "txt": "fes7+",
+        "base": "fes",
+        "html": "fes<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "H": {
+        "txt": "H",
+        "base": "h",
+        "type": "X",
+        "html": "H"
+    },
+    "D": {
+        "txt": "D",
+        "type": "X",
+        "html": "D",
+        "base": "d"
+    },
+    "gis4": {
+        "txt": "gis4",
+        "base": "gis",
+        "html": "gis<sup>4</sup>",
+        "type": "x4"
+    },
+    "beses9": {
+        "txt": "beses9",
+        "base": "beses",
+        "html": "beses<sup>9</sup>",
+        "type": "x9"
+    },
+    "Gis": {
+        "txt": "Gis",
+        "base": "gis",
+        "type": "X",
+        "html": "Gis"
+    },
+    "Fis9": {
+        "txt": "Fis9",
+        "base": "fis",
+        "html": "Fis<sup>9</sup>",
+        "type": "X9"
+    },
+    "Eses7+": {
+        "txt": "Eses7+",
+        "base": "eses",
+        "html": "Eses<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "fisis9": {
+        "txt": "fisis9",
+        "base": "fisis",
+        "html": "fisis<sup>9</sup>",
+        "type": "x9"
+    },
+    "B7": {
+        "txt": "B7",
+        "base": "b",
+        "html": "B<sup>7</sup>",
+        "type": "X7"
+    },
+    "cis7+": {
+        "txt": "cis7+",
+        "base": "cis",
+        "html": "cis<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "Es7+": {
+        "txt": "Es7+",
+        "base": "es",
+        "html": "Es<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "C4": {
+        "txt": "C4",
+        "base": "c",
+        "type": "X4",
+        "html": "C<sup>4</sup>"
+    },
+    "Cisis9": {
+        "txt": "Cisis9",
+        "base": "cisis",
+        "html": "Cisis<sup>9</sup>",
+        "type": "X9"
+    },
+    "B9": {
+        "txt": "B9",
+        "type": "X9",
+        "html": "B<sup>9</sup>",
+        "base": "b"
+    },
+    "feses": {
+        "txt": "feses",
+        "type": "x",
+        "html": "feses",
+        "base": "feses"
+    },
+    "Cisis7+": {
+        "txt": "Cisis7+",
+        "base": "cisis",
+        "type": "X7+",
+        "html": "Cisis<sup>7+</sup>"
+    },
+    "Disis": {
+        "txt": "Disis",
+        "base": "disis",
+        "html": "Disis",
+        "type": "X"
+    },
+    "his": {
+        "txt": "his",
+        "base": "his",
+        "html": "his",
+        "type": "x"
+    },
+    "fisis7+": {
+        "txt": "fisis7+",
+        "base": "fisis",
+        "html": "fisis<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "C7": {
+        "txt": "C7",
+        "base": "c",
+        "html": "C<sup>7</sup>",
+        "type": "X7"
+    },
+    "asas7+": {
+        "txt": "asas7+",
+        "base": "asas",
+        "type": "x7+",
+        "html": "asas<sup>7+</sup>"
+    },
+    "ces7+": {
+        "txt": "ces7+",
+        "base": "ces",
+        "type": "x7+",
+        "html": "ces<sup>7+</sup>"
+    },
+    "ais7": {
+        "txt": "ais7",
+        "base": "ais",
+        "html": "ais<sup>7</sup>",
+        "type": "x7"
+    },
+    "Fisis9": {
+        "txt": "Fisis9",
+        "base": "fisis",
+        "html": "Fisis<sup>9</sup>",
+        "type": "X9"
+    },
+    "Beses9": {
+        "txt": "Beses9",
+        "type": "X9",
+        "html": "Beses<sup>9</sup>",
+        "base": "beses"
+    },
+    "Ces4": {
+        "txt": "Ces4",
+        "type": "X4",
+        "html": "Ces<sup>4</sup>",
+        "base": "ces"
+    },
+    "D4": {
+        "txt": "D4",
+        "base": "d",
+        "type": "X4",
+        "html": "D<sup>4</sup>"
+    },
+    "dis7": {
+        "txt": "dis7",
+        "type": "x7",
+        "html": "dis<sup>7</sup>",
+        "base": "dis"
+    },
+    "C9": {
+        "txt": "C9",
+        "base": "c",
+        "html": "C<sup>9</sup>",
+        "type": "X9"
+    },
+    "Geses7+": {
+        "txt": "Geses7+",
+        "base": "geses",
+        "html": "Geses<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "His": {
+        "txt": "His",
+        "type": "X",
+        "html": "His",
+        "base": "his"
+    },
+    "eses9": {
+        "txt": "eses9",
+        "base": "eses",
+        "html": "eses<sup>9</sup>",
+        "type": "x9"
+    },
+    "ceses7+": {
+        "txt": "ceses7+",
+        "base": "ceses",
+        "html": "ceses<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "ces": {
+        "txt": "ces",
+        "base": "ces",
+        "type": "x",
+        "html": "ces"
+    },
+    "Fes4": {
+        "txt": "Fes4",
+        "type": "X4",
+        "html": "Fes<sup>4</sup>",
+        "base": "fes"
+    },
+    "gisis": {
+        "txt": "gisis",
+        "base": "gisis",
+        "html": "gisis",
+        "type": "x"
+    },
+    "gis7": {
+        "txt": "gis7",
+        "base": "gis",
+        "html": "gis<sup>7</sup>",
+        "type": "x7"
+    },
+    "ceses": {
+        "txt": "ceses",
+        "base": "ceses",
+        "type": "x",
+        "html": "ceses"
+    },
+    "D7": {
+        "txt": "D7",
+        "base": "d",
+        "html": "D<sup>7</sup>",
+        "type": "X7"
+    },
+    "Asas": {
+        "txt": "Asas",
+        "base": "asas",
+        "type": "X",
+        "html": "Asas"
+    },
+    "aisis7": {
+        "txt": "aisis7",
+        "base": "aisis",
+        "type": "x7",
+        "html": "aisis<sup>7</sup>"
+    },
+    "Aisis": {
+        "txt": "Aisis",
+        "base": "aisis",
+        "type": "X",
+        "html": "Aisis"
+    },
+    "Asas7+": {
+        "txt": "Asas7+",
+        "base": "asas",
+        "html": "Asas<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "Ces": {
+        "txt": "Ces",
+        "base": "ces",
+        "type": "X",
+        "html": "Ces"
+    },
+    "E4": {
+        "txt": "E4",
+        "base": "e",
+        "html": "E<sup>4</sup>",
+        "type": "X4"
+    },
+    "D9": {
+        "txt": "D9",
+        "type": "X9",
+        "html": "D<sup>9</sup>",
+        "base": "d"
+    },
+    "ais9": {
+        "txt": "ais9",
+        "base": "ais",
+        "html": "ais<sup>9</sup>",
+        "type": "x9"
+    },
+    "disis7": {
+        "txt": "disis7",
+        "base": "disis",
+        "html": "disis<sup>7</sup>",
+        "type": "x7"
+    },
+    "a4": {
+        "txt": "a4",
+        "base": "a",
+        "type": "x4",
+        "html": "a<sup>4</sup>"
+    },
+    "a": {
+        "txt": "a",
+        "base": "a",
+        "html": "a",
+        "type": "x"
+    },
+    "E7": {
+        "txt": "E7",
+        "type": "X7",
+        "html": "E<sup>7</sup>",
+        "base": "e"
+    },
+    "b": {
+        "txt": "b",
+        "type": "x",
+        "html": "b",
+        "base": "b"
+    },
+    "dis9": {
+        "txt": "dis9",
+        "base": "dis",
+        "type": "x9",
+        "html": "dis<sup>9</sup>"
+    },
+    "gis9": {
+        "txt": "gis9",
+        "base": "gis",
+        "type": "x9",
+        "html": "gis<sup>9</sup>"
+    },
+    "c": {
+        "txt": "c",
+        "base": "c",
+        "html": "c",
+        "type": "x"
+    },
+    "disis": {
+        "txt": "disis",
+        "base": "disis",
+        "html": "disis",
+        "type": "x"
+    },
+    "d": {
+        "txt": "d",
+        "type": "x",
+        "base": "d",
+        "html": "d"
+    },
+    "F4": {
+        "txt": "F4",
+        "base": "f",
+        "type": "X4",
+        "html": "F<sup>4</sup>"
+    },
+    "des": {
+        "txt": "des",
+        "type": "x",
+        "html": "des",
+        "base": "des"
+    },
+    "Aisis7": {
+        "txt": "Aisis7",
+        "base": "aisis",
+        "html": "Aisis<sup>7</sup>",
+        "type": "X7"
+    },
+    "E9": {
+        "txt": "E9",
+        "base": "e",
+        "html": "E<sup>9</sup>",
+        "type": "X9"
+    },
+    "Ces7": {
+        "txt": "Ces7",
+        "base": "ces",
+        "type": "X7",
+        "html": "Ces<sup>7</sup>"
+    },
+    "e": {
+        "txt": "e",
+        "base": "e",
+        "html": "e",
+        "type": "x"
+    },
+    "gisis7": {
+        "txt": "gisis7",
+        "base": "gisis",
+        "html": "gisis<sup>7</sup>",
+        "type": "x7"
+    },
+    "f": {
+        "txt": "f",
+        "type": "x",
+        "html": "f",
+        "base": "f"
+    },
+    "a7": {
+        "txt": "a7",
+        "type": "x7",
+        "html": "a<sup>7</sup>",
+        "base": "a"
+    },
+    "g": {
+        "txt": "g",
+        "base": "g",
+        "type": "x",
+        "html": "g"
+    },
+    "eisis4": {
+        "txt": "eisis4",
+        "base": "eisis",
+        "html": "eisis<sup>4</sup>",
+        "type": "x4"
+    },
+    "Fes7": {
+        "txt": "Fes7",
+        "base": "fes",
+        "type": "X7",
+        "html": "Fes<sup>7</sup>"
+    },
+    "ceses7": {
+        "txt": "ceses7",
+        "base": "ceses",
+        "type": "x7",
+        "html": "ceses<sup>7</sup>"
+    },
+    "b4": {
+        "txt": "b4",
+        "base": "b",
+        "html": "b<sup>4</sup>",
+        "type": "x4"
+    },
+    "h": {
+        "txt": "h",
+        "base": "h",
+        "type": "x",
+        "html": "h"
+    },
+    "F7": {
+        "txt": "F7",
+        "base": "f",
+        "html": "F<sup>7</sup>",
+        "type": "X7"
+    },
+    "Des": {
+        "txt": "Des",
+        "base": "des",
+        "type": "X",
+        "html": "Des"
+    },
+    "a9": {
+        "txt": "a9",
+        "type": "x9",
+        "base": "a",
+        "html": "a<sup>9</sup>"
+    },
+    "Disis7": {
+        "txt": "Disis7",
+        "type": "X7",
+        "html": "Disis<sup>7</sup>",
+        "base": "disis"
+    },
+    "feses7": {
+        "txt": "feses7",
+        "type": "x7",
+        "html": "feses<sup>7</sup>",
+        "base": "feses"
+    },
+    "G4": {
+        "txt": "G4",
+        "base": "g",
+        "html": "G<sup>4</sup>",
+        "type": "X4"
+    },
+    "F9": {
+        "txt": "F9",
+        "base": "f",
+        "html": "F<sup>9</sup>",
+        "type": "X9"
+    },
+    "deses4": {
+        "txt": "deses4",
+        "type": "x4",
+        "html": "deses<sup>4</sup>",
+        "base": "deses"
+    },
+    "hisis4": {
+        "txt": "hisis4",
+        "base": "hisis",
+        "html": "hisis<sup>4</sup>",
+        "type": "x4"
+    },
+    "b7": {
+        "txt": "b7",
+        "base": "b",
+        "html": "b<sup>7</sup>",
+        "type": "x7"
+    },
+    "des4": {
+        "txt": "des4",
+        "type": "x4",
+        "html": "des<sup>4</sup>",
+        "base": "des"
+    },
+    "aisis": {
+        "txt": "aisis",
+        "base": "aisis",
+        "type": "x",
+        "html": "aisis"
+    },
+    "Ceses7": {
+        "txt": "Ceses7",
+        "base": "ceses",
+        "type": "X7",
+        "html": "Ceses<sup>7</sup>"
+    },
+    "eisis7+": {
+        "txt": "eisis7+",
+        "type": "x7+",
+        "html": "eisis<sup>7+</sup>",
+        "base": "eisis"
+    },
+    "c4": {
+        "txt": "c4",
+        "base": "c",
+        "html": "c<sup>4</sup>",
+        "type": "x4"
+    },
+    "ges4": {
+        "txt": "ges4",
+        "base": "ges",
+        "html": "ges<sup>4</sup>",
+        "type": "x4"
+    },
+    "G7": {
+        "txt": "G7",
+        "base": "g",
+        "html": "G<sup>7</sup>",
+        "type": "X7"
+    },
+    "Ces9": {
+        "txt": "Ces9",
+        "base": "ces",
+        "html": "Ces<sup>9</sup>",
+        "type": "X9"
+    },
+    "Gis7+": {
+        "txt": "Gis7+",
+        "type": "X7+",
+        "html": "Gis<sup>7+</sup>",
+        "base": "gis"
+    },
+    "Eisis4": {
+        "txt": "Eisis4",
+        "base": "eisis",
+        "type": "X4",
+        "html": "Eisis<sup>4</sup>"
+    },
+    "geses4": {
+        "txt": "geses4",
+        "base": "geses",
+        "html": "geses<sup>4</sup>",
+        "type": "x4"
+    },
+    "Eis4": {
+        "txt": "Eis4",
+        "base": "eis",
+        "html": "Eis<sup>4</sup>",
+        "type": "X4"
+    },
+    "Gisis7": {
+        "txt": "Gisis7",
+        "type": "X7",
+        "html": "Gisis<sup>7</sup>",
+        "base": "gisis"
+    },
+    "Fes9": {
+        "txt": "Fes9",
+        "base": "fes",
+        "html": "Fes<sup>9</sup>",
+        "type": "X9"
+    },
+    "H4": {
+        "txt": "H4",
+        "base": "h",
+        "html": "H<sup>4</sup>",
+        "type": "X4"
+    },
+    "Feses7+": {
+        "txt": "Feses7+",
+        "base": "feses",
+        "html": "Feses<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "b9": {
+        "txt": "b9",
+        "type": "x9",
+        "html": "b<sup>9</sup>",
+        "base": "b"
+    },
+    "His4": {
+        "txt": "His4",
+        "base": "his",
+        "html": "His<sup>4</sup>",
+        "type": "X4"
+    },
+    "Feses7": {
+        "txt": "Feses7",
+        "base": "feses",
+        "html": "Feses<sup>7</sup>",
+        "type": "X7"
+    },
+    "beses7+": {
+        "txt": "beses7+",
+        "base": "beses",
+        "html": "beses<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "G9": {
+        "txt": "G9",
+        "type": "X9",
+        "html": "G<sup>9</sup>",
+        "base": "g"
+    },
+    "c7": {
+        "txt": "c7",
+        "base": "c",
+        "type": "x7",
+        "html": "c<sup>7</sup>"
+    },
+    "Deses4": {
+        "txt": "Deses4",
+        "base": "deses",
+        "html": "Deses<sup>4</sup>",
+        "type": "X4"
+    },
+    "Ges7+": {
+        "txt": "Ges7+",
+        "base": "ges",
+        "type": "X7+",
+        "html": "Ges<sup>7+</sup>"
+    },
+    "Hisis4": {
+        "txt": "Hisis4",
+        "type": "X4",
+        "html": "Hisis<sup>4</sup>",
+        "base": "hisis"
+    },
+    "d4": {
+        "txt": "d4",
+        "base": "d",
+        "type": "x4",
+        "html": "d<sup>4</sup>"
+    },
+    "c9": {
+        "txt": "c9",
+        "type": "x9",
+        "html": "c<sup>9</sup>",
+        "base": "c"
+    },
+    "H7": {
+        "txt": "H7",
+        "base": "h",
+        "type": "X7",
+        "html": "H<sup>7</sup>"
+    },
+    "Dis7+": {
+        "txt": "Dis7+",
+        "type": "X7+",
+        "html": "Dis<sup>7+</sup>",
+        "base": "dis"
+    },
+    "Geses4": {
+        "txt": "Geses4",
+        "base": "geses",
+        "type": "X4",
+        "html": "Geses<sup>4</sup>"
+    },
+    "H9": {
+        "txt": "H9",
+        "base": "h",
+        "type": "X9",
+        "html": "H<sup>9</sup>"
+    },
+    "d7": {
+        "txt": "d7",
+        "base": "d",
+        "html": "d<sup>7</sup>",
+        "type": "x7"
+    },
+    "Geses": {
+        "txt": "Geses",
+        "type": "X",
+        "html": "Geses",
+        "base": "geses"
+    },
+    "fes": {
+        "txt": "fes",
+        "base": "fes",
+        "html": "fes",
+        "type": "x"
+    },
+    "des7": {
+        "txt": "des7",
+        "base": "des",
+        "type": "x7",
+        "html": "des<sup>7</sup>"
+    },
+    "e4": {
+        "txt": "e4",
+        "base": "e",
+        "type": "x4",
+        "html": "e<sup>4</sup>"
+    },
+    "d9": {
+        "txt": "d9",
+        "type": "x9",
+        "html": "d<sup>9</sup>",
+        "base": "d"
+    },
+    "ges7": {
+        "txt": "ges7",
+        "base": "ges",
+        "html": "ges<sup>7</sup>",
+        "type": "x7"
+    },
+    "Des7+": {
+        "txt": "Des7+",
+        "base": "des",
+        "html": "Des<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "Eis7": {
+        "txt": "Eis7",
+        "type": "X7",
+        "html": "Eis<sup>7</sup>",
+        "base": "eis"
+    },
+    "gis7+": {
+        "txt": "gis7+",
+        "base": "gis",
+        "type": "x7+",
+        "html": "gis<sup>7+</sup>"
+    },
+    "Fes": {
+        "txt": "Fes",
+        "base": "fes",
+        "html": "Fes",
+        "type": "X"
+    },
+    "e7": {
+        "txt": "e7",
+        "base": "e",
+        "type": "x7",
+        "html": "e<sup>7</sup>"
+    },
+    "His7": {
+        "txt": "His7",
+        "base": "his",
+        "html": "His<sup>7</sup>",
+        "type": "X7"
+    },
+    "aisis9": {
+        "txt": "aisis9",
+        "base": "aisis",
+        "type": "x9",
+        "html": "aisis<sup>9</sup>"
+    },
+    "Ais7+": {
+        "txt": "Ais7+",
+        "base": "ais",
+        "html": "Ais<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "Hisis": {
+        "txt": "Hisis",
+        "type": "X",
+        "html": "Hisis",
+        "base": "hisis"
+    },
+    "f4": {
+        "txt": "f4",
+        "base": "f",
+        "html": "f<sup>4</sup>",
+        "type": "x4"
+    },
+    "e9": {
+        "txt": "e9",
+        "base": "e",
+        "type": "x9",
+        "html": "e<sup>9</sup>"
+    },
+    "a7+": {
+        "txt": "a7+",
+        "base": "a",
+        "html": "a<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "Deses": {
+        "txt": "Deses",
+        "type": "X",
+        "html": "Deses",
+        "base": "deses"
+    },
+    "cis4": {
+        "txt": "cis4",
+        "type": "x4",
+        "html": "cis<sup>4</sup>",
+        "base": "cis"
+    },
+    "ges7+": {
+        "txt": "ges7+",
+        "base": "ges",
+        "html": "ges<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "des9": {
+        "txt": "des9",
+        "base": "des",
+        "html": "des<sup>9</sup>",
+        "type": "x9"
+    },
+    "ges": {
+        "txt": "ges",
+        "type": "x",
+        "html": "ges",
+        "base": "ges"
+    },
+    "disis9": {
+        "txt": "disis9",
+        "base": "disis",
+        "html": "disis<sup>9</sup>",
+        "type": "x9"
+    },
+    "fis4": {
+        "txt": "fis4",
+        "base": "fis",
+        "type": "x4",
+        "html": "fis<sup>4</sup>"
+    },
+    "Aisis7+": {
+        "txt": "Aisis7+",
+        "type": "X7+",
+        "html": "Aisis<sup>7+</sup>",
+        "base": "aisis"
+    },
+    "A7+": {
+        "txt": "A7+",
+        "base": "a",
+        "type": "X7+",
+        "html": "A<sup>7+</sup>"
+    },
+    "Hisis7+": {
+        "txt": "Hisis7+",
+        "base": "hisis",
+        "type": "X7+",
+        "html": "Hisis<sup>7+</sup>"
+    },
+    "f7": {
+        "txt": "f7",
+        "base": "f",
+        "html": "f<sup>7</sup>",
+        "type": "x7"
+    },
+    "disis7+": {
+        "txt": "disis7+",
+        "base": "disis",
+        "type": "x7+",
+        "html": "disis<sup>7+</sup>"
+    },
+    "ges9": {
+        "txt": "ges9",
+        "base": "ges",
+        "html": "ges<sup>9</sup>",
+        "type": "x9"
+    },
+    "Eis9": {
+        "txt": "Eis9",
+        "type": "X9",
+        "html": "Eis<sup>9</sup>",
+        "base": "eis"
+    },
+    "dis7+": {
+        "txt": "dis7+",
+        "type": "x7+",
+        "html": "dis<sup>7+</sup>",
+        "base": "dis"
+    },
+    "g4": {
+        "txt": "g4",
+        "base": "g",
+        "html": "g<sup>4</sup>",
+        "type": "x4"
+    },
+    "f9": {
+        "txt": "f9",
+        "base": "f",
+        "type": "x9",
+        "html": "f<sup>9</sup>"
+    },
+    "As7+": {
+        "txt": "As7+",
+        "base": "as",
+        "html": "As<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "Ges": {
+        "txt": "Ges",
+        "base": "ges",
+        "type": "X",
+        "html": "Ges"
+    },
+    "geses": {
+        "txt": "geses",
+        "base": "geses",
+        "html": "geses",
+        "type": "x"
+    },
+    "ceses9": {
+        "txt": "ceses9",
+        "type": "x9",
+        "html": "ceses<sup>9</sup>",
+        "base": "ceses"
+    },
+    "His9": {
+        "txt": "His9",
+        "base": "his",
+        "type": "X9",
+        "html": "His<sup>9</sup>"
+    },
+    "gisis9": {
+        "txt": "gisis9",
+        "base": "gisis",
+        "html": "gisis<sup>9</sup>",
+        "type": "x9"
+    },
+    "Aisis9": {
+        "txt": "Aisis9",
+        "base": "aisis",
+        "type": "X9",
+        "html": "Aisis<sup>9</sup>"
+    },
+    "Eisis": {
+        "txt": "Eisis",
+        "base": "eisis",
+        "type": "X",
+        "html": "Eisis"
+    },
+    "g7": {
+        "txt": "g7",
+        "type": "x7",
+        "html": "g<sup>7</sup>",
+        "base": "g"
+    },
+    "des7+": {
+        "txt": "des7+",
+        "base": "des",
+        "html": "des<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "Disis9": {
+        "txt": "Disis9",
+        "base": "disis",
+        "html": "Disis<sup>9</sup>",
+        "type": "X9"
+    },
+    "b7+": {
+        "txt": "b7+",
+        "base": "b",
+        "html": "b<sup>7+</sup>",
+        "type": "x7+"
+    },
+    "as4": {
+        "txt": "as4",
+        "base": "as",
+        "html": "as<sup>4</sup>",
+        "type": "x4"
+    },
+    "h4": {
+        "txt": "h4",
+        "base": "h",
+        "html": "h<sup>4</sup>",
+        "type": "x4"
+    },
+    "feses9": {
+        "txt": "feses9",
+        "base": "feses",
+        "type": "x9",
+        "html": "feses<sup>9</sup>"
+    },
+    "g9": {
+        "txt": "g9",
+        "base": "g",
+        "type": "x9",
+        "html": "g<sup>9</sup>"
+    },
+    "B7+": {
+        "txt": "B7+",
+        "base": "b",
+        "html": "B<sup>7+</sup>",
+        "type": "X7+"
+    },
+    "ais7+": {
+        "txt": "ais7+",
+        "type": "x7+",
+        "html": "ais<sup>7+</sup>",
+        "base": "ais"
+    },
+    "cis7": {
+        "txt": "cis7",
+        "type": "x7",
+        "html": "cis<sup>7</sup>",
+        "base": "cis"
+    },
+    "hisis": {
+        "txt": "hisis",
+        "base": "hisis",
+        "type": "x",
+        "html": "hisis"
+    },
+    "Ceses9": {
+        "txt": "Ceses9",
+        "base": "ceses",
+        "html": "Ceses<sup>9</sup>",
+        "type": "X9"
+    },
+    "h7": {
+        "txt": "h7",
+        "base": "h",
+        "type": "x7",
+        "html": "h<sup>7</sup>"
+    },
+    "As4": {
+        "txt": "As4",
+        "type": "X4",
+        "html": "As<sup>4</sup>",
+        "base": "as"
+    },
+    "deses": {
+        "txt": "deses",
+        "base": "deses",
+        "html": "deses",
+        "type": "x"
+    },
+    "Gisis9": {
+        "txt": "Gisis9",
+        "base": "gisis",
+        "html": "Gisis<sup>9</sup>",
+        "type": "X9"
+    },
+    "fis7": {
+        "txt": "fis7",
+        "base": "fis",
+        "html": "fis<sup>7</sup>",
+        "type": "x7"
+    },
+    "h9": {
+        "txt": "h9",
+        "type": "x9",
+        "html": "h<sup>9</sup>",
+        "base": "h"
+    },
+    "as7": {
+        "txt": "as7",
+        "type": "x7",
+        "html": "as<sup>7</sup>",
+        "base": "as"
+    },
+    "Feses9": {
+        "txt": "Feses9",
+        "base": "feses",
+        "html": "Feses<sup>9</sup>",
+        "type": "X9"
+    },
+    "c7+": {
+        "txt": "c7+",
+        "base": "c",
+        "html": "c<sup>7+</sup>",
+        "type": "x7+"
+    }
+}
+notes = [
+    {
+        "nameNote": "C@@",
+        "nameBase": "ceses",
+        "nameVexFlow": "C@@",
+        "semitone": 10,
+        "degree": 0,
+        "accidental": -2
+    },
+    {
+        "nameNote": "C@",
+        "nameBase": "ces",
+        "nameVexFlow": "C@",
+        "semitone": 11,
+        "degree": 0,
+        "accidental": -1
+    },
+    {
+        "nameNote": "C",
+        "nameBase": "c",
+        "nameVexFlow": "C",
+        "semitone": 0,
+        "degree": 0,
+        "accidental": 0
+    },
+    {
+        "nameNote": "C#",
+        "nameBase": "cis",
+        "nameVexFlow": "C#",
+        "semitone": 1,
+        "degree": 0,
+        "accidental": 1
+    },
+    {
+        "nameNote": "C##",
+        "nameBase": "cisis",
+        "nameVexFlow": "C##",
+        "semitone": 2,
+        "degree": 0,
+        "accidental": 2
+    },
+    {
+        "nameNote": "D@@",
+        "nameBase": "deses",
+        "nameVexFlow": "D@@",
+        "semitone": 0,
+        "degree": 1,
+        "accidental": -2
+    },
+    {
+        "nameNote": "D@",
+        "nameBase": "des",
+        "nameVexFlow": "D@",
+        "semitone": 1,
+        "degree": 1,
+        "accidental": -1
+    },
+    {
+        "nameNote": "D",
+        "nameBase": "d",
+        "nameVexFlow": "D",
+        "semitone": 2,
+        "degree": 1,
+        "accidental": 0
+    },
+    {
+        "nameNote": "D#",
+        "nameBase": "dis",
+        "nameVexFlow": "D#",
+        "semitone": 3,
+        "degree": 1,
+        "accidental": 1
+    },
+    {
+        "nameNote": "D##",
+        "nameBase": "disis",
+        "nameVexFlow": "D##",
+        "semitone": 4,
+        "degree": 1,
+        "accidental": 2
+    },
+    {
+        "nameNote": "E@@",
+        "nameBase": "eses",
+        "nameVexFlow": "E@@",
+        "semitone": 2,
+        "degree": 2,
+        "accidental": -2
+    },
+    {
+        "nameNote": "E@",
+        "nameBase": "es",
+        "nameVexFlow": "E@",
+        "semitone": 3,
+        "degree": 2,
+        "accidental": -1
+    },
+    {
+        "nameNote": "E",
+        "nameBase": "e",
+        "nameVexFlow": "E",
+        "semitone": 4,
+        "degree": 2,
+        "accidental": 0
+    },
+    {
+        "nameNote": "E#",
+        "nameBase": "eis",
+        "nameVexFlow": "E#",
+        "semitone": 5,
+        "degree": 2,
+        "accidental": 1
+    },
+    {
+        "nameNote": "E##",
+        "nameBase": "eisis",
+        "nameVexFlow": "E##",
+        "semitone": 6,
+        "degree": 2,
+        "accidental": 2
+    },
+    {
+        "nameNote": "F@@",
+        "nameBase": "feses",
+        "nameVexFlow": "F@@",
+        "semitone": 3,
+        "degree": 3,
+        "accidental": -2
+    },
+    {
+        "nameNote": "F@",
+        "nameBase": "fes",
+        "nameVexFlow": "F@",
+        "semitone": 4,
+        "degree": 3,
+        "accidental": -1
+    },
+    {
+        "nameNote": "F",
+        "nameBase": "f",
+        "nameVexFlow": "F",
+        "semitone": 5,
+        "degree": 3,
+        "accidental": 0
+    },
+    {
+        "nameNote": "F#",
+        "nameBase": "fis",
+        "nameVexFlow": "F#",
+        "semitone": 6,
+        "degree": 3,
+        "accidental": 1
+    },
+    {
+        "nameNote": "F##",
+        "nameBase": "fisis",
+        "nameVexFlow": "F##",
+        "semitone": 7,
+        "degree": 3,
+        "accidental": 2
+    },
+    {
+        "nameNote": "G@@",
+        "nameBase": "geses",
+        "nameVexFlow": "G@@",
+        "semitone": 5,
+        "degree": 4,
+        "accidental": -2
+    },
+    {
+        "nameNote": "G@",
+        "nameBase": "ges",
+        "nameVexFlow": "G@",
+        "semitone": 6,
+        "degree": 4,
+        "accidental": -1
+    },
+    {
+        "nameNote": "G",
+        "nameBase": "g",
+        "nameVexFlow": "G",
+        "semitone": 7,
+        "degree": 4,
+        "accidental": 0
+    },
+    {
+        "nameNote": "G#",
+        "nameBase": "gis",
+        "nameVexFlow": "G#",
+        "semitone": 8,
+        "degree": 4,
+        "accidental": 1
+    },
+    {
+        "nameNote": "G##",
+        "nameBase": "gisis",
+        "nameVexFlow": "G##",
+        "semitone": 9,
+        "degree": 4,
+        "accidental": 2
+    },
+    {
+        "nameNote": "A@@",
+        "nameBase": "asas",
+        "nameVexFlow": "A@@",
+        "semitone": 7,
+        "degree": 5,
+        "accidental": -2
+    },
+    {
+        "nameNote": "A@",
+        "nameBase": "as",
+        "nameVexFlow": "A@",
+        "semitone": 8,
+        "degree": 5,
+        "accidental": -1
+    },
+    {
+        "nameNote": "A",
+        "nameBase": "a",
+        "nameVexFlow": "A",
+        "semitone": 9,
+        "degree": 5,
+        "accidental": 0
+    },
+    {
+        "nameNote": "A#",
+        "nameBase": "ais",
+        "nameVexFlow": "A#",
+        "semitone": 10,
+        "degree": 5,
+        "accidental": 1
+    },
+    {
+        "nameNote": "A##",
+        "nameBase": "aisis",
+        "nameVexFlow": "A##",
+        "semitone": 11,
+        "degree": 5,
+        "accidental": 2
+    },
+    {
+        "nameNote": "H@@",
+        "nameBase": "beses",
+        "nameVexFlow": "B@@",
+        "semitone": 9,
+        "degree": 6,
+        "accidental": -2
+    },
+    {
+        "nameNote": "H@",
+        "nameBase": "b",
+        "nameVexFlow": "B@",
+        "semitone": 10,
+        "degree": 6,
+        "accidental": -1
+    },
+    {
+        "nameNote": "H",
+        "nameBase": "h",
+        "nameVexFlow": "B",
+        "semitone": 11,
+        "degree": 6,
+        "accidental": 0
+    },
+    {
+        "nameNote": "H#",
+        "nameBase": "his",
+        "nameVexFlow": "B#",
+        "semitone": 0,
+        "degree": 6,
+        "accidental": 1
+    },
+    {
+        "nameNote": "H##",
+        "nameBase": "hisis",
+        "nameVexFlow": "B##",
+        "semitone": 1,
+        "degree": 6,
+        "accidental": 2
+    }
+]
+keys = [{ "major": "B", "minor": "g", "accidentals": -2 },
+{ "major": "F", "minor": "d", "accidentals": -1 },
+{ "major": "C", "minor": "a", "accidentals": 0 },
+{ "major": "G", "minor": "e", "accidentals": 1 },
+{ "major": "D", "minor": "h", "accidentals": 2 },
+{ "major": "A", "minor": "fis", "accidentals": 3 },
+{ "major": "E", "minor": "cis", "accidentals": 4 },
+{ "major": "H", "minor": "gis", "accidentals": 5 }]

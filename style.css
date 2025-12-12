@@ -1,11 +1,18 @@
 body {
     font-family: "Georgia", Serif;
     font-size: 13px;
+    background-color: lightblue;
 }
-
+#filterDiv {
+    position: sticky;
+    top: 0px;
+    background-color: rgb(194, 226, 237);
+    border: 1px solid gray;
+    padding: 5px;
+    z-index: 100;
+}
 #contentDiv {
     width: 100%;
-    background-color: lightblue;
 }
 
 table,
