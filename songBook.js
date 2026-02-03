@@ -5,7 +5,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G",
@@ -15,7 +15,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -23,7 +23,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C"
           ],
@@ -31,7 +31,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d"
           ],
@@ -39,7 +39,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "F"
@@ -48,7 +48,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C"
           ],
@@ -56,7 +56,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -64,7 +64,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -72,7 +72,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -80,7 +80,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -88,7 +88,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G",
@@ -98,7 +98,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -106,7 +106,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G"
@@ -115,7 +115,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "a"
@@ -124,7 +124,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G"
@@ -133,7 +133,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "C7"
@@ -142,7 +142,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G"
@@ -151,7 +151,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "a"
@@ -160,7 +160,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G"
@@ -169,7 +169,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "C"
@@ -178,7 +178,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -186,7 +186,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C"
           ],
@@ -194,7 +194,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d"
           ],
@@ -202,7 +202,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "F"
@@ -211,7 +211,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C"
           ],
@@ -219,7 +219,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -227,7 +227,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -235,7 +235,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -243,7 +243,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -251,7 +251,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G",
@@ -261,7 +261,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -269,7 +269,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -277,7 +277,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -295,7 +295,6 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "D4 D4 D4 G4 G4 A4",
           "guitarChords" : [
             "G",
             "a"
@@ -304,7 +303,6 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "D4 E4 G4 H4 A4 G4 D4",
           "guitarChords" : [
             "C",
             "D",
@@ -314,7 +312,6 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "H4 H4 H4 F#4 F#4 F#4 G4 F#4 G4",
           "guitarChords" : [
             "H7",
             "e"
@@ -323,7 +320,6 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "G4 E4 G4 G4 F#4 G4 A4 D4",
           "guitarChords" : [
             "C",
             "D"
@@ -332,7 +328,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -340,7 +336,6 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "D4 H4 H4 H4 H4 G4 A4 E4",
           "guitarChords" : [
             "G",
             "a"
@@ -349,7 +344,6 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "D4 E4 G4 G4 H4 A4 G4 D4",
           "guitarChords" : [
             "C",
             "D",
@@ -359,7 +353,6 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "D4 H4 H4 H4 F#4 F#4 F#4 G4 G4 A4 H4 G4",
           "guitarChords" : [
             "H7",
             "e",
@@ -370,7 +363,6 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "D4 E4 G4 A4 H4 A4 G4 G4",
           "guitarChords" : [
             "C",
             "D",
@@ -380,7 +372,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -388,7 +380,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -396,7 +388,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -404,7 +396,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -412,7 +404,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -420,7 +412,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -428,7 +420,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -436,7 +428,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -444,7 +436,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -452,7 +444,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -460,7 +452,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -468,7 +460,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -476,7 +468,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -484,7 +476,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -492,7 +484,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -510,7 +502,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "F"
@@ -519,7 +511,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G"
@@ -528,7 +520,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "F"
@@ -537,7 +529,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "F",
@@ -547,7 +539,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "a"
@@ -556,7 +548,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G"
@@ -565,7 +557,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "F"
@@ -574,7 +566,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "F",
@@ -584,7 +576,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -592,7 +584,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -600,7 +592,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -608,7 +600,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -616,7 +608,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -624,7 +616,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -632,7 +624,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -640,7 +632,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -648,7 +640,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -656,7 +648,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -664,7 +656,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "F"
@@ -673,7 +665,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "F",
@@ -683,7 +675,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -701,7 +693,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -709,7 +701,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "d",
@@ -720,7 +712,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "d",
@@ -731,7 +723,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "a"
@@ -740,7 +732,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "E",
@@ -750,7 +742,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -758,7 +750,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "G",
@@ -768,7 +760,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "B",
             "A7"
@@ -777,7 +769,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d"
           ],
@@ -785,7 +777,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "E7"
@@ -794,7 +786,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -802,7 +794,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "G",
@@ -812,7 +804,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "B",
             "A7"
@@ -821,7 +813,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d"
           ],
@@ -829,7 +821,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "E7",
@@ -839,7 +831,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -847,7 +839,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -855,7 +847,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -863,7 +855,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -871,7 +863,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -879,7 +871,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -887,7 +879,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -895,7 +887,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -903,7 +895,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -911,7 +903,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -919,7 +911,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -927,7 +919,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -935,7 +927,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -943,7 +935,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -951,7 +943,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -959,7 +951,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -967,7 +959,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -985,7 +977,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "F",
@@ -997,7 +989,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "F"
@@ -1006,7 +998,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "d",
@@ -1016,7 +1008,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "F"
@@ -1025,7 +1017,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "d",
@@ -1035,7 +1027,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1043,7 +1035,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "F",
@@ -1054,7 +1046,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "a",
@@ -1065,7 +1057,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "F",
@@ -1076,7 +1068,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "a",
@@ -1088,7 +1080,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1096,7 +1088,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1104,7 +1096,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1112,7 +1104,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1120,7 +1112,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1128,7 +1120,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1136,7 +1128,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1144,7 +1136,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1152,7 +1144,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1160,7 +1152,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1168,7 +1160,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1176,7 +1168,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1184,7 +1176,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1192,7 +1184,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1210,7 +1202,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1218,7 +1210,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "g"
           ],
@@ -1226,7 +1218,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d"
           ],
@@ -1234,7 +1226,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "A7"
           ],
@@ -1242,7 +1234,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d"
           ],
@@ -1250,7 +1242,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1258,7 +1250,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "A7"
@@ -1267,7 +1259,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d"
           ],
@@ -1275,7 +1267,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C"
           ],
@@ -1283,7 +1275,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "D7"
@@ -1292,7 +1284,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "g"
           ],
@@ -1300,7 +1292,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d"
           ],
@@ -1308,7 +1300,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "A7"
           ],
@@ -1316,7 +1308,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "D7"
@@ -1325,7 +1317,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1333,7 +1325,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1341,7 +1333,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1349,7 +1341,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1357,7 +1349,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1365,7 +1357,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1373,7 +1365,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1381,7 +1373,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1389,7 +1381,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1397,7 +1389,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1405,7 +1397,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1413,7 +1405,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1421,7 +1413,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1429,7 +1421,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1437,7 +1429,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1445,7 +1437,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1453,7 +1445,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1461,7 +1453,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1469,7 +1461,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1477,7 +1469,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1485,7 +1477,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1493,7 +1485,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1511,7 +1503,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D",
@@ -1521,7 +1513,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "A",
@@ -1531,7 +1523,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D",
@@ -1542,7 +1534,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D",
@@ -1552,7 +1544,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1560,7 +1552,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1568,7 +1560,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1576,7 +1568,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1584,7 +1576,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1592,7 +1584,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1600,7 +1592,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1608,7 +1600,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1616,7 +1608,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1624,7 +1616,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1632,7 +1624,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1640,7 +1632,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1648,7 +1640,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1656,7 +1648,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1664,7 +1656,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1672,7 +1664,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1680,7 +1672,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1688,7 +1680,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1696,7 +1688,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1704,7 +1696,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1712,7 +1704,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1720,7 +1712,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1728,7 +1720,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1736,7 +1728,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1744,7 +1736,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1752,7 +1744,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1760,7 +1752,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1768,7 +1760,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1776,7 +1768,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1784,7 +1776,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1792,7 +1784,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1800,7 +1792,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1808,7 +1800,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1816,7 +1808,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1824,7 +1816,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1832,7 +1824,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1840,7 +1832,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1858,7 +1850,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C",
@@ -1871,7 +1863,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C",
@@ -1883,7 +1875,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D"
@@ -1892,7 +1884,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C"
@@ -1901,7 +1893,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C",
@@ -1911,7 +1903,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D",
@@ -1923,7 +1915,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -1931,7 +1923,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C",
@@ -1942,7 +1934,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C",
@@ -1953,7 +1945,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D"
@@ -1962,7 +1954,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C"
@@ -1971,7 +1963,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C",
@@ -1981,7 +1973,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C",
@@ -1992,7 +1984,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C",
@@ -2003,7 +1995,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D"
@@ -2012,7 +2004,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C"
@@ -2021,7 +2013,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C",
@@ -2031,7 +2023,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D",
@@ -2044,7 +2036,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2052,7 +2044,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2060,7 +2052,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2068,7 +2060,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2076,7 +2068,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2084,7 +2076,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2092,7 +2084,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2100,7 +2092,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2108,7 +2100,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2116,7 +2108,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2124,7 +2116,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2132,7 +2124,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2140,7 +2132,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2158,7 +2150,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G",
@@ -2169,7 +2161,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "C",
@@ -2179,7 +2171,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2187,7 +2179,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2195,7 +2187,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2203,7 +2195,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "C"
@@ -2212,7 +2204,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "C"
@@ -2221,7 +2213,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "C",
@@ -2231,7 +2223,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2239,7 +2231,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2247,7 +2239,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2255,7 +2247,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2263,7 +2255,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2271,7 +2263,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2279,7 +2271,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2287,7 +2279,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2295,7 +2287,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2303,7 +2295,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2311,7 +2303,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2319,7 +2311,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2327,7 +2319,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2335,7 +2327,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2343,7 +2335,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2351,7 +2343,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2359,7 +2351,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2367,7 +2359,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2375,7 +2367,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2393,7 +2385,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "A",
@@ -2403,7 +2395,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "A",
@@ -2413,7 +2405,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "G",
@@ -2424,7 +2416,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "G",
@@ -2435,7 +2427,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "A",
@@ -2445,7 +2437,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D",
@@ -2455,7 +2447,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D",
@@ -2465,7 +2457,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "A",
@@ -2476,7 +2468,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "A"
@@ -2485,7 +2477,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2493,7 +2485,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2501,7 +2493,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2509,7 +2501,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2517,7 +2509,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2525,7 +2517,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2533,7 +2525,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2541,7 +2533,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2549,7 +2541,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2557,7 +2549,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2565,7 +2557,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2573,7 +2565,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2581,7 +2573,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2589,7 +2581,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2597,7 +2589,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2605,7 +2597,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2613,7 +2605,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2621,7 +2613,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2629,7 +2621,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2637,7 +2629,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2645,7 +2637,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2653,7 +2645,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2661,7 +2653,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2669,7 +2661,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2677,7 +2669,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2685,7 +2677,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2693,7 +2685,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2701,7 +2693,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2709,7 +2701,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2717,7 +2709,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2725,7 +2717,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2733,7 +2725,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2741,7 +2733,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2749,7 +2741,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2757,7 +2749,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2765,7 +2757,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2773,7 +2765,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2791,7 +2783,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e9",
             "a"
@@ -2800,7 +2792,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D7",
             "G",
@@ -2810,7 +2802,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2818,7 +2810,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2826,7 +2818,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2834,7 +2826,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C",
@@ -2845,7 +2837,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2853,7 +2845,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2861,7 +2853,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2869,7 +2861,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2877,7 +2869,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2885,7 +2877,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2893,7 +2885,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2901,7 +2893,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2909,7 +2901,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2917,7 +2909,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2925,7 +2917,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2933,7 +2925,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2941,7 +2933,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2949,7 +2941,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2957,7 +2949,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2965,7 +2957,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2973,7 +2965,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -2991,7 +2983,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D",
@@ -3002,7 +2994,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "C",
@@ -3012,7 +3004,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3020,7 +3012,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3028,7 +3020,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3036,7 +3028,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D",
@@ -3046,7 +3038,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D",
@@ -3056,7 +3048,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D",
@@ -3068,7 +3060,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D",
@@ -3078,7 +3070,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3086,7 +3078,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3094,7 +3086,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3102,7 +3094,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3110,7 +3102,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3118,7 +3110,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3126,7 +3118,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3134,7 +3126,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3142,7 +3134,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3150,7 +3142,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3158,7 +3150,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3166,7 +3158,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3174,7 +3166,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3182,7 +3174,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3190,7 +3182,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3208,7 +3200,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G"
           ],
@@ -3216,7 +3208,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a"
           ],
@@ -3224,7 +3216,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G"
           ],
@@ -3232,7 +3224,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a"
           ],
@@ -3240,7 +3232,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "C"
@@ -3249,7 +3241,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "G"
@@ -3258,7 +3250,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "C"
@@ -3267,7 +3259,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C"
@@ -3276,7 +3268,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "C"
@@ -3285,7 +3277,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C"
@@ -3294,7 +3286,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3302,7 +3294,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "F(d)"
@@ -3311,7 +3303,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C(a)",
@@ -3321,7 +3313,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "F(d)"
@@ -3330,7 +3322,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G"
           ],
@@ -3338,7 +3330,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3346,7 +3338,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3354,7 +3346,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3362,7 +3354,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3370,7 +3362,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3378,7 +3370,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3386,7 +3378,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3394,7 +3386,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3402,7 +3394,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3410,7 +3402,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3418,7 +3410,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3426,7 +3418,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3434,7 +3426,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3442,7 +3434,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3450,7 +3442,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3458,7 +3450,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3466,7 +3458,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3474,7 +3466,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3482,7 +3474,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3490,7 +3482,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3498,7 +3490,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3506,7 +3498,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3514,7 +3506,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3522,7 +3514,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3530,7 +3522,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3538,7 +3530,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3546,7 +3538,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3554,7 +3546,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3562,7 +3554,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3570,7 +3562,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3578,7 +3570,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3586,7 +3578,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3594,7 +3586,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3602,7 +3594,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3610,7 +3602,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3618,7 +3610,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3626,7 +3618,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3634,7 +3626,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3642,7 +3634,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3650,7 +3642,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3658,7 +3650,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3666,7 +3658,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3674,7 +3666,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3682,7 +3674,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3690,7 +3682,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3698,7 +3690,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3706,7 +3698,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3714,7 +3706,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3722,7 +3714,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3730,7 +3722,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3738,7 +3730,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3746,7 +3738,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3754,7 +3746,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3762,7 +3754,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3770,7 +3762,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3778,7 +3770,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3786,7 +3778,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3794,7 +3786,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3812,7 +3804,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G",
@@ -3822,7 +3814,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3830,7 +3822,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G"
@@ -3839,7 +3831,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "a"
@@ -3848,7 +3840,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G"
@@ -3857,7 +3849,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "C7"
@@ -3866,7 +3858,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G"
@@ -3875,7 +3867,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "a"
@@ -3884,7 +3876,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G"
@@ -3893,7 +3885,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "C"
@@ -3902,7 +3894,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3910,7 +3902,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C"
           ],
@@ -3918,7 +3910,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d"
           ],
@@ -3926,7 +3918,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "F"
@@ -3935,7 +3927,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C"
           ],
@@ -3943,7 +3935,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3951,7 +3943,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3959,7 +3951,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3967,7 +3959,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3975,7 +3967,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G",
@@ -3985,7 +3977,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -3993,7 +3985,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4001,7 +3993,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4009,7 +4001,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4017,7 +4009,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4025,7 +4017,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4033,7 +4025,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4041,7 +4033,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4049,7 +4041,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4057,7 +4049,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4065,7 +4057,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4073,7 +4065,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4081,7 +4073,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4099,7 +4091,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "d",
@@ -4109,7 +4101,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "e"
@@ -4118,7 +4110,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "D7",
@@ -4129,7 +4121,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D7",
             "d7",
@@ -4139,7 +4131,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4147,7 +4139,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "B",
@@ -4157,7 +4149,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G",
@@ -4168,7 +4160,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "B",
@@ -4178,7 +4170,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G",
@@ -4188,7 +4180,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4196,7 +4188,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4204,7 +4196,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4212,7 +4204,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4220,7 +4212,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4228,7 +4220,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4236,7 +4228,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4244,7 +4236,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4252,7 +4244,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4260,7 +4252,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4268,7 +4260,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4276,7 +4268,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4284,7 +4276,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4292,7 +4284,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4300,7 +4292,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4318,7 +4310,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "G",
@@ -4330,7 +4322,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "D",
@@ -4341,7 +4333,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4349,7 +4341,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D"
           ],
@@ -4357,7 +4349,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "D",
@@ -4368,7 +4360,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4376,7 +4368,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4384,7 +4376,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4392,7 +4384,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4400,7 +4392,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4408,7 +4400,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4416,7 +4408,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4424,7 +4416,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4432,7 +4424,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4440,7 +4432,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4448,7 +4440,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4456,7 +4448,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4464,7 +4456,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4482,7 +4474,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "D"
@@ -4491,7 +4483,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D",
@@ -4501,7 +4493,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "e"
@@ -4510,7 +4502,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D",
@@ -4520,7 +4512,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4528,7 +4520,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4536,7 +4528,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4544,7 +4536,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4552,7 +4544,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4560,7 +4552,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4568,7 +4560,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "e"
           ],
@@ -4576,7 +4568,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "C",
@@ -4586,7 +4578,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4594,7 +4586,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4602,7 +4594,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4610,7 +4602,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4618,7 +4610,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4626,7 +4618,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4634,7 +4626,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4642,7 +4634,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4650,7 +4642,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4658,7 +4650,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4666,7 +4658,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4674,7 +4666,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4682,7 +4674,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4690,7 +4682,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4708,7 +4700,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G",
@@ -4719,7 +4711,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4727,7 +4719,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4735,7 +4727,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G",
@@ -4745,7 +4737,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4753,7 +4745,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "C"
@@ -4762,7 +4754,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C"
@@ -4771,7 +4763,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4779,7 +4771,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4787,7 +4779,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4795,7 +4787,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4803,7 +4795,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4811,7 +4803,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4819,7 +4811,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4827,7 +4819,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4835,7 +4827,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4853,7 +4845,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "G",
@@ -4864,7 +4856,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "G",
@@ -4874,7 +4866,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "A"
@@ -4883,7 +4875,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "G",
@@ -4896,7 +4888,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4904,7 +4896,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4912,7 +4904,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4920,7 +4912,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4928,7 +4920,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4936,7 +4928,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "A",
@@ -4946,7 +4938,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "A",
@@ -4957,7 +4949,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "A"
@@ -4966,7 +4958,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "h",
@@ -4979,7 +4971,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4987,7 +4979,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -4995,7 +4987,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5003,7 +4995,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5011,7 +5003,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5019,7 +5011,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5027,7 +5019,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5035,7 +5027,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5043,7 +5035,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5051,7 +5043,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5059,7 +5051,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5067,7 +5059,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5075,7 +5067,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5083,7 +5075,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5091,7 +5083,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5099,7 +5091,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5107,7 +5099,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5115,7 +5107,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5123,7 +5115,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5131,7 +5123,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5139,7 +5131,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5147,7 +5139,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5155,7 +5147,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5163,7 +5155,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5171,7 +5163,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5179,7 +5171,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5187,7 +5179,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5205,7 +5197,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "Fis7"
@@ -5214,7 +5206,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "h7"
           ],
@@ -5222,7 +5214,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "E"
           ],
@@ -5230,7 +5222,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "Fis7"
@@ -5239,7 +5231,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "h7"
           ],
@@ -5247,7 +5239,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "E"
           ],
@@ -5255,7 +5247,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "D"
           ],
@@ -5263,7 +5255,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "Fis7"
@@ -5272,7 +5264,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "h7"
           ],
@@ -5280,7 +5272,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "E"
           ],
@@ -5288,7 +5280,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5296,7 +5288,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5304,7 +5296,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5312,7 +5304,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5320,7 +5312,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5328,7 +5320,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5336,7 +5328,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5344,7 +5336,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5352,7 +5344,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5360,7 +5352,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5368,7 +5360,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5376,7 +5368,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5384,7 +5376,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5392,7 +5384,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5400,7 +5392,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5408,7 +5400,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5416,7 +5408,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5424,7 +5416,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5432,7 +5424,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5440,7 +5432,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5448,7 +5440,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5456,7 +5448,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5464,7 +5456,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5472,7 +5464,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5480,7 +5472,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5488,7 +5480,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5496,7 +5488,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5504,7 +5496,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5512,7 +5504,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5520,7 +5512,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5528,7 +5520,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5536,7 +5528,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5544,7 +5536,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5552,7 +5544,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5570,7 +5562,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "A7"
@@ -5579,7 +5571,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "g",
             "A7"
@@ -5588,7 +5580,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "g",
             "d"
@@ -5597,7 +5589,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "g",
             "A7"
@@ -5606,7 +5598,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5614,7 +5606,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5622,7 +5614,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "C"
@@ -5631,7 +5623,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "g",
             "d"
@@ -5640,7 +5632,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "C"
@@ -5649,7 +5641,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "g",
             "A7",
@@ -5659,7 +5651,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5667,7 +5659,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5675,7 +5667,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5683,7 +5675,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5691,7 +5683,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5699,7 +5691,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5707,7 +5699,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5715,7 +5707,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5723,7 +5715,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5731,7 +5723,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5739,7 +5731,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5747,7 +5739,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5755,7 +5747,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5763,7 +5755,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5771,7 +5763,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5779,7 +5771,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5787,7 +5779,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5795,7 +5787,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5803,7 +5795,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5811,7 +5803,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5819,7 +5811,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5827,7 +5819,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5835,7 +5827,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5843,7 +5835,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5851,7 +5843,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5859,7 +5851,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "D"
@@ -5868,7 +5860,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "e"
@@ -5877,7 +5869,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D"
@@ -5886,7 +5878,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "H7",
@@ -5906,7 +5898,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G",
@@ -5917,7 +5909,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5925,7 +5917,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G",
@@ -5935,7 +5927,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G",
@@ -5945,7 +5937,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "d",
@@ -5956,7 +5948,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G",
@@ -5966,7 +5958,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -5974,7 +5966,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G"
@@ -5983,7 +5975,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "a"
@@ -5992,7 +5984,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G"
@@ -6001,7 +5993,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "a"
@@ -6010,7 +6002,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6018,7 +6010,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6026,7 +6018,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6034,7 +6026,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6042,7 +6034,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6050,7 +6042,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6058,7 +6050,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6066,7 +6058,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6074,7 +6066,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6082,7 +6074,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6090,7 +6082,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6098,7 +6090,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6106,7 +6098,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6114,7 +6106,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6132,7 +6124,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "d",
@@ -6144,7 +6136,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G"
@@ -6153,7 +6145,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G"
@@ -6162,7 +6154,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6170,7 +6162,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6178,7 +6170,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6186,7 +6178,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6194,7 +6186,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6202,7 +6194,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6210,7 +6202,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6218,7 +6210,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G"
@@ -6227,7 +6219,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "e"
@@ -6236,7 +6228,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "C"
@@ -6245,7 +6237,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G"
@@ -6254,7 +6246,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6262,7 +6254,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6270,7 +6262,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6278,7 +6270,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6286,7 +6278,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6294,7 +6286,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6302,7 +6294,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6310,7 +6302,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6318,7 +6310,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6326,7 +6318,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6334,7 +6326,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6342,7 +6334,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6350,7 +6342,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6358,7 +6350,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6366,7 +6358,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6374,7 +6366,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6382,7 +6374,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6400,7 +6392,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "h",
             "D"
@@ -6409,7 +6401,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D",
@@ -6420,7 +6412,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "h",
             "D"
@@ -6429,7 +6421,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "Fis7",
             "h"
@@ -6438,7 +6430,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6446,7 +6438,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6454,7 +6446,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6462,7 +6454,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6470,7 +6462,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6478,7 +6470,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6486,7 +6478,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6494,7 +6486,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6502,7 +6494,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6510,7 +6502,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6518,7 +6510,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6526,7 +6518,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6534,7 +6526,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6542,7 +6534,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6550,7 +6542,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6558,7 +6550,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6566,7 +6558,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6574,7 +6566,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6582,7 +6574,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6590,7 +6582,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6608,7 +6600,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G",
@@ -6619,7 +6611,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6627,7 +6619,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6635,7 +6627,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G",
@@ -6647,7 +6639,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6655,7 +6647,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6663,7 +6655,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6671,7 +6663,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6679,7 +6671,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6687,7 +6679,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6695,7 +6687,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6703,7 +6695,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6711,7 +6703,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6719,7 +6711,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6727,7 +6719,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6735,7 +6727,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6743,7 +6735,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6751,7 +6743,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6759,7 +6751,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6767,7 +6759,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6775,7 +6767,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6783,7 +6775,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6791,7 +6783,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6799,7 +6791,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6817,7 +6809,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "G"
@@ -6826,7 +6818,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "a"
@@ -6835,7 +6827,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G",
@@ -6845,7 +6837,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6853,7 +6845,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6861,7 +6853,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6869,7 +6861,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6877,7 +6869,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6885,7 +6877,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G"
@@ -6894,7 +6886,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G"
@@ -6903,7 +6895,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "a"
           ],
@@ -6911,7 +6903,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "D"
           ],
@@ -6919,7 +6911,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G"
@@ -6928,7 +6920,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G"
@@ -6937,7 +6929,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "a"
           ],
@@ -6945,7 +6937,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "e"
@@ -6954,7 +6946,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6962,7 +6954,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6970,7 +6962,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6978,7 +6970,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6986,7 +6978,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -6994,7 +6986,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7002,7 +6994,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7010,7 +7002,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7018,7 +7010,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7026,7 +7018,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7034,7 +7026,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7052,7 +7044,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "e"
@@ -7061,7 +7053,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "A7",
             "D"
@@ -7070,7 +7062,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7078,7 +7070,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7086,7 +7078,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7094,7 +7086,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7102,7 +7094,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7110,7 +7102,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7118,7 +7110,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7126,7 +7118,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7134,7 +7126,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7142,7 +7134,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7150,7 +7142,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7158,7 +7150,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7166,7 +7158,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7174,7 +7166,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7182,7 +7174,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7190,7 +7182,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7198,7 +7190,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7206,7 +7198,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7214,7 +7206,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7222,7 +7214,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7230,7 +7222,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7238,7 +7230,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7256,7 +7248,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "h",
@@ -7268,7 +7260,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D",
@@ -7279,7 +7271,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "D",
@@ -7291,7 +7283,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D",
@@ -7301,7 +7293,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7309,7 +7301,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C",
@@ -7321,7 +7313,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "h",
@@ -7333,7 +7325,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C",
@@ -7345,7 +7337,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "h",
@@ -7355,7 +7347,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7363,7 +7355,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7371,7 +7363,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7379,7 +7371,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7387,7 +7379,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7395,7 +7387,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7403,7 +7395,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7411,7 +7403,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7419,7 +7411,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7427,7 +7419,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7435,7 +7427,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7443,7 +7435,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7461,7 +7453,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "h"
@@ -7470,7 +7462,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "A"
@@ -7479,7 +7471,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "h"
@@ -7488,7 +7480,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "A"
@@ -7497,7 +7489,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "Fis7",
             "h"
@@ -7506,7 +7498,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7514,7 +7506,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "h",
             "G"
@@ -7523,7 +7515,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "A"
@@ -7532,7 +7524,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "D"
@@ -7541,7 +7533,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "e"
           ],
@@ -7549,7 +7541,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "Fis7"
@@ -7558,7 +7550,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "h",
             "A"
@@ -7567,7 +7559,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7575,7 +7567,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7583,7 +7575,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7591,7 +7583,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7599,7 +7591,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7607,7 +7599,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7615,7 +7607,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7623,7 +7615,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7631,7 +7623,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7639,7 +7631,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7647,7 +7639,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7655,7 +7647,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7663,7 +7655,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7671,7 +7663,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7679,7 +7671,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7687,7 +7679,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7695,7 +7687,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7703,7 +7695,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7711,7 +7703,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7719,7 +7711,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7727,7 +7719,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7735,7 +7727,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7743,7 +7735,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7761,7 +7753,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "C"
@@ -7770,7 +7762,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "G"
@@ -7779,7 +7771,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "C",
@@ -7790,7 +7782,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G",
@@ -7800,7 +7792,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7808,7 +7800,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7816,7 +7808,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7824,7 +7816,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "a",
@@ -7834,7 +7826,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7842,7 +7834,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D"
@@ -7851,7 +7843,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "e"
@@ -7860,7 +7852,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G",
@@ -7870,7 +7862,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "e"
@@ -7879,7 +7871,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7887,7 +7879,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7895,7 +7887,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7903,7 +7895,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7911,7 +7903,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7919,7 +7911,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7927,7 +7919,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7935,7 +7927,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7943,7 +7935,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7951,7 +7943,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7959,7 +7951,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7967,7 +7959,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7975,7 +7967,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7983,7 +7975,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7991,7 +7983,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -7999,7 +7991,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8007,7 +7999,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8015,7 +8007,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8023,7 +8015,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8031,7 +8023,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8039,7 +8031,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8047,7 +8039,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8055,7 +8047,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8063,7 +8055,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8071,7 +8063,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8079,7 +8071,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8087,7 +8079,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8095,7 +8087,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8103,7 +8095,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8111,7 +8103,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8119,7 +8111,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8127,7 +8119,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8145,7 +8137,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "E"
@@ -8154,7 +8146,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "fis",
             "D"
@@ -8163,7 +8155,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8171,7 +8163,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8179,7 +8171,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8187,7 +8179,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8195,7 +8187,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8203,7 +8195,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8211,7 +8203,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8219,7 +8211,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8227,7 +8219,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8235,7 +8227,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8243,7 +8235,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8251,7 +8243,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8259,7 +8251,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8267,7 +8259,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8275,7 +8267,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8283,7 +8275,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8291,7 +8283,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8299,7 +8291,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8307,7 +8299,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8315,7 +8307,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8323,7 +8315,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8331,7 +8323,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8339,7 +8331,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8347,7 +8339,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8355,7 +8347,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8363,7 +8355,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8371,7 +8363,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8379,7 +8371,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8387,7 +8379,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8395,7 +8387,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8403,7 +8395,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8411,7 +8403,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8419,7 +8411,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8427,7 +8419,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8435,7 +8427,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8443,7 +8435,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8451,7 +8443,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8459,7 +8451,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8467,7 +8459,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8475,7 +8467,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8493,7 +8485,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "F",
@@ -8504,7 +8496,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "F",
@@ -8514,7 +8506,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "F",
@@ -8525,7 +8517,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "F",
@@ -8535,7 +8527,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8543,7 +8535,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G",
@@ -8553,7 +8545,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "F",
@@ -8563,7 +8555,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "F",
@@ -8574,7 +8566,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "F",
@@ -8584,7 +8576,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8592,7 +8584,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8600,7 +8592,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8608,7 +8600,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8616,7 +8608,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8624,7 +8616,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8632,7 +8624,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8640,7 +8632,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8648,7 +8640,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8656,7 +8648,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8664,7 +8656,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8672,7 +8664,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8680,7 +8672,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8688,7 +8680,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8696,7 +8688,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8704,7 +8696,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8712,7 +8704,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8720,7 +8712,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8728,7 +8720,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8736,7 +8728,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8754,7 +8746,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "F7+",
@@ -8765,7 +8757,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "F7+",
@@ -8775,7 +8767,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "e",
@@ -8786,7 +8778,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "F7+",
             "G",
@@ -8796,7 +8788,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8804,7 +8796,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8812,7 +8804,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8820,7 +8812,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8828,7 +8820,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8836,7 +8828,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8844,7 +8836,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F7+",
             "G",
@@ -8854,7 +8846,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F7+",
             "G",
@@ -8864,7 +8856,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F7+",
             "G",
@@ -8875,7 +8867,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F7+",
             "G",
@@ -8885,7 +8877,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8893,7 +8885,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8901,7 +8893,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8909,7 +8901,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8917,7 +8909,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8925,7 +8917,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8933,7 +8925,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8941,7 +8933,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8949,7 +8941,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8957,7 +8949,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -8975,7 +8967,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "d",
@@ -8985,7 +8977,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "E",
             "a",
@@ -8996,7 +8988,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C",
@@ -9007,7 +8999,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "E",
             "a",
@@ -9019,7 +9011,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9027,7 +9019,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9035,7 +9027,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9043,7 +9035,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9051,7 +9043,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9059,7 +9051,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9067,7 +9059,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9075,7 +9067,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9083,7 +9075,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9091,7 +9083,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9099,7 +9091,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9107,7 +9099,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9115,7 +9107,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9123,7 +9115,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9131,7 +9123,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9139,7 +9131,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9147,7 +9139,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9155,7 +9147,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9163,7 +9155,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9171,7 +9163,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9179,7 +9171,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9187,7 +9179,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9195,7 +9187,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9203,7 +9195,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9211,7 +9203,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9219,7 +9211,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9227,7 +9219,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9235,7 +9227,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9243,7 +9235,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9251,7 +9243,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9259,7 +9251,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9267,7 +9259,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9275,7 +9267,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9283,7 +9275,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9291,7 +9283,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9299,7 +9291,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9307,7 +9299,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9315,7 +9307,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9323,7 +9315,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9331,7 +9323,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9339,7 +9331,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9347,7 +9339,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9355,7 +9347,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9363,7 +9355,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9371,7 +9363,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9379,7 +9371,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9387,7 +9379,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9395,7 +9387,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9403,7 +9395,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9411,7 +9403,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9419,7 +9411,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9427,7 +9419,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9435,7 +9427,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9443,7 +9435,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9451,7 +9443,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9459,7 +9451,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9467,7 +9459,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9475,7 +9467,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9483,7 +9475,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9491,7 +9483,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9499,7 +9491,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9507,7 +9499,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9515,7 +9507,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9523,7 +9515,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9531,7 +9523,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9539,7 +9531,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9547,7 +9539,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9555,7 +9547,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9563,7 +9555,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9571,7 +9563,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9579,7 +9571,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9587,7 +9579,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9595,7 +9587,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9603,7 +9595,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9611,7 +9603,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9619,7 +9611,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9627,7 +9619,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9635,7 +9627,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9643,7 +9635,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9651,7 +9643,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9659,7 +9651,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9667,7 +9659,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9675,7 +9667,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9683,7 +9675,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9691,7 +9683,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9699,7 +9691,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9707,7 +9699,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9715,7 +9707,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9723,7 +9715,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9731,7 +9723,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9739,7 +9731,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9747,7 +9739,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9755,7 +9747,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9763,7 +9755,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9771,7 +9763,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9779,7 +9771,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9787,7 +9779,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9795,7 +9787,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9803,7 +9795,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9811,7 +9803,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9819,7 +9811,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9827,7 +9819,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9835,7 +9827,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9843,7 +9835,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9851,7 +9843,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9859,7 +9851,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9867,7 +9859,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9875,7 +9867,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9883,7 +9875,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9891,7 +9883,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9899,7 +9891,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9907,7 +9899,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9915,7 +9907,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9923,7 +9915,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9931,7 +9923,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9939,7 +9931,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9947,7 +9939,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9955,7 +9947,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9963,7 +9955,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -9981,7 +9973,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C"
           ],
@@ -9989,7 +9981,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e"
           ],
@@ -9997,7 +9989,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "f"
@@ -10006,7 +9998,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G"
@@ -10015,7 +10007,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10023,7 +10015,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10031,7 +10023,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10039,7 +10031,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10047,7 +10039,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10055,7 +10047,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10063,7 +10055,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10071,7 +10063,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10079,7 +10071,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10087,7 +10079,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10095,7 +10087,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10103,7 +10095,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10111,7 +10103,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10119,7 +10111,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10127,7 +10119,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10135,7 +10127,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10143,7 +10135,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10151,7 +10143,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10159,7 +10151,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10167,7 +10159,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10175,7 +10167,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10183,7 +10175,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10191,7 +10183,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10199,7 +10191,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10207,7 +10199,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10215,7 +10207,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10223,7 +10215,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10231,7 +10223,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10239,7 +10231,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10247,7 +10239,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10265,7 +10257,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C",
@@ -10275,7 +10267,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D",
@@ -10285,7 +10277,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D",
@@ -10295,7 +10287,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D",
@@ -10305,7 +10297,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10313,7 +10305,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D",
@@ -10323,7 +10315,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D",
@@ -10333,7 +10325,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D",
@@ -10343,7 +10335,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D",
@@ -10353,7 +10345,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10361,7 +10353,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10369,7 +10361,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10377,7 +10369,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10385,7 +10377,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10393,7 +10385,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10401,7 +10393,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10409,7 +10401,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10417,7 +10409,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10425,7 +10417,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10433,7 +10425,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10441,7 +10433,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10459,7 +10451,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "e"
@@ -10468,7 +10460,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "G",
@@ -10478,7 +10470,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10486,7 +10478,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10494,7 +10486,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10502,7 +10494,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10510,7 +10502,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10518,7 +10510,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10526,7 +10518,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10534,7 +10526,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10542,7 +10534,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10550,7 +10542,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10558,7 +10550,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10566,7 +10558,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10574,7 +10566,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10582,7 +10574,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10590,7 +10582,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10598,7 +10590,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10606,7 +10598,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10614,7 +10606,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10622,7 +10614,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10630,7 +10622,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10638,7 +10630,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10646,7 +10638,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10654,7 +10646,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10662,7 +10654,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10670,7 +10662,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10678,7 +10670,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10686,7 +10678,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10694,7 +10686,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10702,7 +10694,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10710,7 +10702,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10718,7 +10710,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10736,7 +10728,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "G",
@@ -10748,7 +10740,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D"
@@ -10757,7 +10749,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G",
@@ -10767,7 +10759,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D"
@@ -10776,7 +10768,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G",
@@ -10786,7 +10778,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10794,7 +10786,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "D"
@@ -10803,7 +10795,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "C"
@@ -10812,7 +10804,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D"
@@ -10821,7 +10813,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "D",
@@ -10832,7 +10824,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10840,7 +10832,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10848,7 +10840,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10856,7 +10848,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10864,7 +10856,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10872,7 +10864,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10880,7 +10872,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10888,7 +10880,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10896,7 +10888,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10904,7 +10896,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10912,7 +10904,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10920,7 +10912,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10928,7 +10920,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10936,7 +10928,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10944,7 +10936,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10952,7 +10944,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10960,7 +10952,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10968,7 +10960,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10976,7 +10968,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10984,7 +10976,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -10992,7 +10984,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11000,7 +10992,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11018,7 +11010,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "d"
@@ -11027,7 +11019,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "C",
@@ -11037,7 +11029,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "d"
@@ -11046,7 +11038,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "E7",
             "a",
@@ -11056,7 +11048,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "d"
@@ -11065,7 +11057,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "E7",
             "a",
@@ -11075,7 +11067,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11083,7 +11075,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11091,7 +11083,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11099,7 +11091,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11107,7 +11099,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11115,7 +11107,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11123,7 +11115,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11131,7 +11123,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11139,7 +11131,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11147,7 +11139,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11155,7 +11147,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11163,7 +11155,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11171,7 +11163,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11179,7 +11171,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11187,7 +11179,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11195,7 +11187,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11203,7 +11195,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11211,7 +11203,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11219,7 +11211,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11227,7 +11219,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11235,7 +11227,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11243,7 +11235,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11251,7 +11243,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11259,7 +11251,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11267,7 +11259,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11275,7 +11267,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11283,7 +11275,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11291,7 +11283,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11299,7 +11291,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11307,7 +11299,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11315,7 +11307,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11323,7 +11315,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11331,7 +11323,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11339,7 +11331,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11347,7 +11339,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11365,7 +11357,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11373,7 +11365,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "fis",
@@ -11384,7 +11376,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "h",
             "E",
@@ -11395,7 +11387,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "fis",
@@ -11406,7 +11398,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "A",
@@ -11416,7 +11408,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11424,7 +11416,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "A"
@@ -11433,7 +11425,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D"
           ],
@@ -11441,7 +11433,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "A"
@@ -11450,7 +11442,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D"
           ],
@@ -11458,7 +11450,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "h",
             "fis"
@@ -11467,7 +11459,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D"
@@ -11476,7 +11468,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "e"
           ],
@@ -11484,7 +11476,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "A"
           ],
@@ -11492,7 +11484,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11500,7 +11492,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11508,7 +11500,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11516,7 +11508,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11524,7 +11516,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11532,7 +11524,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11540,7 +11532,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11548,7 +11540,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11556,7 +11548,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11564,7 +11556,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11572,7 +11564,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11580,7 +11572,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11588,7 +11580,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11596,7 +11588,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11604,7 +11596,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11612,7 +11604,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11620,7 +11612,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11628,7 +11620,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11636,7 +11628,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11644,7 +11636,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11652,7 +11644,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11660,7 +11652,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11668,7 +11660,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11676,7 +11668,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11684,7 +11676,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11692,7 +11684,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11700,7 +11692,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11708,7 +11700,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11716,7 +11708,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11734,7 +11726,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11742,7 +11734,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11750,7 +11742,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "a"
           ],
@@ -11758,7 +11750,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "E"
@@ -11767,7 +11759,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "E"
           ],
@@ -11775,7 +11767,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "E7",
             "a"
@@ -11784,7 +11776,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11792,7 +11784,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a"
           ],
@@ -11800,7 +11792,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "E"
@@ -11809,7 +11801,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "E"
           ],
@@ -11817,7 +11809,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "E7",
             "a"
@@ -11826,7 +11818,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11834,7 +11826,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11842,7 +11834,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11850,7 +11842,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11858,7 +11850,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11866,7 +11858,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11874,7 +11866,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11882,7 +11874,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11890,7 +11882,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11898,7 +11890,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11906,7 +11898,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11914,7 +11906,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11922,7 +11914,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11930,7 +11922,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11938,7 +11930,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11946,7 +11938,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11954,7 +11946,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11962,7 +11954,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11970,7 +11962,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11978,7 +11970,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11986,7 +11978,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -11994,7 +11986,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12002,7 +11994,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12010,7 +12002,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12028,7 +12020,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "a"
@@ -12037,7 +12029,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "D7",
@@ -12048,7 +12040,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "D",
@@ -12058,7 +12050,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "H7",
             "e"
@@ -12067,7 +12059,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "e",
@@ -12078,7 +12070,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12086,7 +12078,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "a7",
             "e",
@@ -12097,7 +12089,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "a7",
             "e",
@@ -12108,7 +12100,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12116,7 +12108,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12124,7 +12116,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12132,7 +12124,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12140,7 +12132,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12148,7 +12140,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12156,7 +12148,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12164,7 +12156,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12172,7 +12164,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12180,7 +12172,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12188,7 +12180,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12196,7 +12188,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12204,7 +12196,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12212,7 +12204,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12220,7 +12212,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12228,7 +12220,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12236,7 +12228,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12244,7 +12236,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12252,7 +12244,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12260,7 +12252,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12268,7 +12260,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12276,7 +12268,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12284,7 +12276,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12292,7 +12284,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12300,7 +12292,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12308,7 +12300,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12316,7 +12308,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12324,7 +12316,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12342,7 +12334,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "h"
           ],
@@ -12350,7 +12342,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e"
           ],
@@ -12358,7 +12350,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "A"
           ],
@@ -12366,7 +12358,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "Fis"
@@ -12375,7 +12367,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12383,7 +12375,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12391,7 +12383,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12399,7 +12391,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12407,7 +12399,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12415,7 +12407,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12423,7 +12415,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12431,7 +12423,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12439,7 +12431,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12447,7 +12439,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12455,7 +12447,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12463,7 +12455,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12471,7 +12463,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12479,7 +12471,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12487,7 +12479,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12495,7 +12487,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12503,7 +12495,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12511,7 +12503,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12519,7 +12511,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12527,7 +12519,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12535,7 +12527,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12543,7 +12535,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12551,7 +12543,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12559,7 +12551,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12567,7 +12559,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12575,7 +12567,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12583,7 +12575,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12591,7 +12583,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12599,7 +12591,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12607,7 +12599,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12615,7 +12607,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12623,7 +12615,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12631,7 +12623,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12639,7 +12631,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12647,7 +12639,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12655,7 +12647,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12663,7 +12655,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12671,7 +12663,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12679,7 +12671,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12687,7 +12679,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12695,7 +12687,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12703,7 +12695,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12711,7 +12703,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12719,7 +12711,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12727,7 +12719,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12735,7 +12727,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "h"
           ],
@@ -12743,7 +12735,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "e"
           ],
@@ -12751,7 +12743,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "Fis",
             "G",
@@ -12762,7 +12754,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "Fis",
             "h",
@@ -12783,7 +12775,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "A7",
@@ -12793,7 +12785,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "A7",
@@ -12803,7 +12795,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12811,7 +12803,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12819,7 +12811,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "C"
@@ -12828,7 +12820,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "g",
             "d"
@@ -12837,7 +12829,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "A7",
@@ -12847,7 +12839,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "A7",
@@ -12857,7 +12849,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12865,7 +12857,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12873,7 +12865,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12881,7 +12873,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12889,7 +12881,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12897,7 +12889,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12905,7 +12897,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12913,7 +12905,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12921,7 +12913,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12929,7 +12921,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12937,7 +12929,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12945,7 +12937,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12953,7 +12945,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12961,7 +12953,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12969,7 +12961,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12977,7 +12969,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12985,7 +12977,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -12993,7 +12985,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13011,7 +13003,6 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "G4 C5 D5 E5 | C5 E5 A5 G5 | C5 D5 E5 | D5 D5 C5 C5",
           "guitarChords" : [
 
           ],
@@ -13019,7 +13010,6 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "G5 C5 C5 C5 C5 | E5 G5 A5 G5",
           "guitarChords" : [
             "C",
             "F",
@@ -13029,7 +13019,6 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "C6 H5 A5 | G5 A5 G5 E5 G5",
           "guitarChords" : [
             "F",
             "e"
@@ -13038,7 +13027,6 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "G5 A5 A5 A5 E5 | G5 E5 D5 C5",
           "guitarChords" : [
             "a",
             "C"
@@ -13047,7 +13035,6 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "C5 D5 E5 | C5 E5 A5 G5",
           "guitarChords" : [
             "C",
             "e",
@@ -13057,7 +13044,6 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "C5 D5 E5 | D5 D5 C5 C5",
           "guitarChords" : [
             "C",
             "G",
@@ -13067,7 +13053,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13075,7 +13061,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13083,7 +13069,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13091,7 +13077,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13099,7 +13085,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13107,7 +13093,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13115,7 +13101,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13123,7 +13109,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13131,7 +13117,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13139,7 +13125,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13147,7 +13133,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13155,7 +13141,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13163,7 +13149,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13171,7 +13157,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13179,7 +13165,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13187,7 +13173,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13195,7 +13181,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13203,7 +13189,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13211,7 +13197,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13219,7 +13205,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13237,7 +13223,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13245,7 +13231,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13253,7 +13239,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13261,7 +13247,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13269,7 +13255,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13277,7 +13263,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13285,7 +13271,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13293,7 +13279,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13301,7 +13287,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13309,7 +13295,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13317,7 +13303,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13325,7 +13311,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13333,7 +13319,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13341,7 +13327,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13349,7 +13335,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13357,7 +13343,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13365,7 +13351,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13373,7 +13359,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13381,7 +13367,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13389,7 +13375,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13397,7 +13383,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13405,7 +13391,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13413,7 +13399,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13421,7 +13407,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13429,7 +13415,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13437,7 +13423,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13445,7 +13431,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13453,7 +13439,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13461,7 +13447,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13469,7 +13455,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13477,7 +13463,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13485,7 +13471,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13493,7 +13479,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13501,7 +13487,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13509,7 +13495,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13517,7 +13503,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13525,7 +13511,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13533,7 +13519,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13541,7 +13527,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13549,7 +13535,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13557,7 +13543,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13565,7 +13551,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13573,7 +13559,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13581,7 +13567,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13589,7 +13575,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13597,7 +13583,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13605,7 +13591,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13613,7 +13599,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13621,7 +13607,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13629,7 +13615,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13637,7 +13623,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13645,7 +13631,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13653,7 +13639,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13661,7 +13647,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13669,7 +13655,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13677,7 +13663,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13685,7 +13671,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13693,7 +13679,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13701,7 +13687,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13709,7 +13695,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13717,7 +13703,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13725,7 +13711,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13733,7 +13719,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13741,7 +13727,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13749,7 +13735,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13757,7 +13743,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13765,7 +13751,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13773,7 +13759,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13781,7 +13767,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13789,7 +13775,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13797,7 +13783,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13805,7 +13791,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13813,7 +13799,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13821,7 +13807,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13829,7 +13815,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13837,7 +13823,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13845,7 +13831,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13853,7 +13839,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13861,7 +13847,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13869,7 +13855,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13877,7 +13863,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13885,7 +13871,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13893,7 +13879,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13901,7 +13887,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13909,7 +13895,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13917,7 +13903,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13925,7 +13911,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13933,7 +13919,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13941,7 +13927,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13949,7 +13935,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13957,7 +13943,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13965,7 +13951,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13973,7 +13959,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13981,7 +13967,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13989,7 +13975,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -13997,7 +13983,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14005,7 +13991,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14013,7 +13999,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14021,7 +14007,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14029,7 +14015,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14037,7 +14023,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14045,7 +14031,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14053,7 +14039,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14061,7 +14047,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14069,7 +14055,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14077,7 +14063,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14085,7 +14071,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14093,7 +14079,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14101,7 +14087,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14109,7 +14095,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14117,7 +14103,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14125,7 +14111,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14133,7 +14119,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14141,7 +14127,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14149,7 +14135,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14157,7 +14143,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14165,7 +14151,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14173,7 +14159,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14181,7 +14167,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14189,7 +14175,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14197,7 +14183,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14205,7 +14191,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14213,7 +14199,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14221,7 +14207,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14229,7 +14215,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14237,7 +14223,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14245,7 +14231,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14253,7 +14239,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14261,7 +14247,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14269,7 +14255,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14277,7 +14263,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14285,7 +14271,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14293,7 +14279,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14301,7 +14287,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14309,7 +14295,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14317,7 +14303,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14325,7 +14311,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14333,7 +14319,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14341,7 +14327,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14349,7 +14335,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14357,7 +14343,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14365,7 +14351,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14373,7 +14359,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14381,7 +14367,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14389,7 +14375,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14397,7 +14383,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14405,7 +14391,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14413,7 +14399,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14421,7 +14407,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14429,7 +14415,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14437,7 +14423,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14445,7 +14431,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14453,7 +14439,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14461,7 +14447,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14469,7 +14455,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14477,7 +14463,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14485,7 +14471,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14493,7 +14479,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14501,7 +14487,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14509,7 +14495,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14517,7 +14503,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14525,7 +14511,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14533,7 +14519,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14541,7 +14527,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14549,7 +14535,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14557,7 +14543,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14565,7 +14551,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14573,7 +14559,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14581,7 +14567,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14589,7 +14575,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14597,7 +14583,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14605,7 +14591,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14613,7 +14599,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14621,7 +14607,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14629,7 +14615,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14637,7 +14623,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14645,7 +14631,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14653,7 +14639,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14661,7 +14647,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14669,7 +14655,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14677,7 +14663,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14685,7 +14671,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14693,7 +14679,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14701,7 +14687,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14709,7 +14695,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14717,7 +14703,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14725,7 +14711,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14733,7 +14719,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14741,7 +14727,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14749,7 +14735,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14757,7 +14743,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14765,7 +14751,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14773,7 +14759,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14781,7 +14767,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14789,7 +14775,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14797,7 +14783,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14805,7 +14791,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14813,7 +14799,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14821,7 +14807,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14829,7 +14815,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14837,7 +14823,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14845,7 +14831,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14853,7 +14839,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14861,7 +14847,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14869,7 +14855,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14877,7 +14863,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14885,7 +14871,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14893,7 +14879,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14901,7 +14887,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14909,7 +14895,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14917,7 +14903,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14925,7 +14911,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14933,7 +14919,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14941,7 +14927,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14949,7 +14935,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14957,7 +14943,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14965,7 +14951,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14973,7 +14959,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14981,7 +14967,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14989,7 +14975,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -14997,7 +14983,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15005,7 +14991,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15013,7 +14999,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15021,7 +15007,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15029,7 +15015,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15037,7 +15023,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15045,7 +15031,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15053,7 +15039,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15061,7 +15047,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15069,7 +15055,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15077,7 +15063,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15085,7 +15071,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15093,7 +15079,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15101,7 +15087,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15109,7 +15095,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15117,7 +15103,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15125,7 +15111,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15133,7 +15119,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15141,7 +15127,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15149,7 +15135,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15167,7 +15153,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15175,7 +15161,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15183,7 +15169,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15191,7 +15177,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15199,7 +15185,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15207,7 +15193,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15215,7 +15201,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15223,7 +15209,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15231,7 +15217,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15239,7 +15225,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15247,7 +15233,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15255,7 +15241,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15263,7 +15249,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15271,7 +15257,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15279,7 +15265,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15287,7 +15273,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15295,7 +15281,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15303,7 +15289,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15311,7 +15297,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15319,7 +15305,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15327,7 +15313,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15335,7 +15321,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15343,7 +15329,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15351,7 +15337,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15359,7 +15345,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15367,7 +15353,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15375,7 +15361,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15383,7 +15369,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15391,7 +15377,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15399,7 +15385,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15407,7 +15393,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15415,7 +15401,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15423,7 +15409,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15431,7 +15417,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15439,7 +15425,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15447,7 +15433,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15455,7 +15441,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15463,7 +15449,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15471,7 +15457,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15479,7 +15465,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15487,7 +15473,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15495,7 +15481,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15503,7 +15489,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15511,7 +15497,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15529,7 +15515,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "d"
@@ -15538,7 +15524,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "E",
             "a"
@@ -15547,7 +15533,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G"
@@ -15556,7 +15542,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "E7",
             "a"
@@ -15565,7 +15551,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "E7"
@@ -15574,7 +15560,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "d"
@@ -15583,7 +15569,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "a"
@@ -15592,7 +15578,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "E"
@@ -15601,7 +15587,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15609,7 +15595,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G"
@@ -15618,7 +15604,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "a"
@@ -15627,7 +15613,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "E7",
@@ -15637,7 +15623,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G"
@@ -15646,7 +15632,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "a"
@@ -15655,7 +15641,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "E7",
@@ -15665,7 +15651,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15673,7 +15659,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15681,7 +15667,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15689,7 +15675,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15697,7 +15683,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15705,7 +15691,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15713,7 +15699,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15721,7 +15707,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15729,7 +15715,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15737,7 +15723,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15755,7 +15741,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D"
           ],
@@ -15763,7 +15749,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "D"
@@ -15772,7 +15758,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G"
           ],
@@ -15780,7 +15766,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "D"
@@ -15789,7 +15775,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "A"
@@ -15798,7 +15784,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "A",
@@ -15809,7 +15795,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G"
           ],
@@ -15817,7 +15803,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "D"
@@ -15826,7 +15812,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15834,7 +15820,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C"
           ],
@@ -15842,7 +15828,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D"
@@ -15851,7 +15837,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C"
           ],
@@ -15859,7 +15845,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "D"
@@ -15868,7 +15854,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "A"
@@ -15877,7 +15863,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "A",
@@ -15888,7 +15874,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "G"
           ],
@@ -15896,7 +15882,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "D"
@@ -15905,7 +15891,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15913,7 +15899,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15921,7 +15907,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15929,7 +15915,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15937,7 +15923,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15945,7 +15931,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15953,7 +15939,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15961,7 +15947,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15969,7 +15955,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -15987,7 +15973,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "e"
@@ -15996,7 +15982,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "G"
@@ -16005,7 +15991,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16013,7 +15999,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16021,7 +16007,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16029,7 +16015,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16037,7 +16023,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16045,7 +16031,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16053,7 +16039,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16061,7 +16047,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "e",
@@ -16072,7 +16058,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16080,7 +16066,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16088,7 +16074,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16096,7 +16082,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16104,7 +16090,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16112,7 +16098,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16120,7 +16106,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16128,7 +16114,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16136,7 +16122,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16144,7 +16130,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16152,7 +16138,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16160,7 +16146,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16168,7 +16154,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16176,7 +16162,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16184,7 +16170,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16202,7 +16188,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "E",
@@ -16213,7 +16199,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "G",
@@ -16224,7 +16210,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "E",
@@ -16235,7 +16221,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "e",
@@ -16245,7 +16231,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16253,7 +16239,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "A",
@@ -16263,7 +16249,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "E",
             "a",
@@ -16273,7 +16259,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "d",
             "e",
@@ -16284,7 +16270,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "E",
             "a"
@@ -16293,7 +16279,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16301,7 +16287,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "+2"
           ],
@@ -16309,7 +16295,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16317,7 +16303,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16325,7 +16311,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16333,7 +16319,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16341,7 +16327,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16349,7 +16335,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16357,7 +16343,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "+1"
           ],
@@ -16365,7 +16351,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16373,7 +16359,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16381,7 +16367,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16389,7 +16375,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16397,7 +16383,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16405,7 +16391,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16413,7 +16399,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16421,7 +16407,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16429,7 +16415,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16437,7 +16423,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16445,7 +16431,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16453,7 +16439,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16471,7 +16457,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "A",
@@ -16481,7 +16467,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "D7",
@@ -16491,7 +16477,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "G7",
@@ -16501,7 +16487,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "A7",
@@ -16511,7 +16497,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16519,7 +16505,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16527,7 +16513,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16535,7 +16521,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16543,7 +16529,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16551,7 +16537,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "D"
           ],
@@ -16559,7 +16545,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "H7",
@@ -16569,7 +16555,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "e"
           ],
@@ -16577,7 +16563,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "A7",
@@ -16588,7 +16574,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "D"
           ],
@@ -16596,7 +16582,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "G"
@@ -16605,7 +16591,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "G7",
@@ -16615,7 +16601,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "A7",
@@ -16625,7 +16611,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16633,7 +16619,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16641,7 +16627,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16649,7 +16635,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16657,7 +16643,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16665,7 +16651,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16673,7 +16659,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16681,7 +16667,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16689,7 +16675,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16697,7 +16683,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16705,7 +16691,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16723,7 +16709,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16731,7 +16717,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16739,7 +16725,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16747,7 +16733,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16755,7 +16741,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16763,7 +16749,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16771,7 +16757,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16779,7 +16765,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16787,7 +16773,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16795,7 +16781,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16803,7 +16789,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16811,7 +16797,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16819,7 +16805,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16827,7 +16813,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16835,7 +16821,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16853,7 +16839,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16861,7 +16847,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "a"
@@ -16870,7 +16856,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "H7",
             "e"
@@ -16879,7 +16865,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "a"
@@ -16888,7 +16874,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "G"
@@ -16897,7 +16883,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "a"
           ],
@@ -16905,7 +16891,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "a",
             "e"
@@ -16914,7 +16900,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "a"
@@ -16923,7 +16909,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "H7",
             "e"
@@ -16932,7 +16918,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16940,7 +16926,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16948,7 +16934,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16956,7 +16942,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16964,7 +16950,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16972,7 +16958,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16980,7 +16966,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16988,7 +16974,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -16996,7 +16982,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17004,7 +16990,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17012,7 +16998,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17020,7 +17006,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17028,7 +17014,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17036,7 +17022,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17044,7 +17030,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17052,7 +17038,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17060,7 +17046,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17068,7 +17054,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17076,7 +17062,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17084,7 +17070,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17092,7 +17078,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17100,7 +17086,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17108,7 +17094,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17116,7 +17102,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17124,7 +17110,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17132,7 +17118,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17140,7 +17126,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17148,7 +17134,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17156,7 +17142,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17164,7 +17150,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17172,7 +17158,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17180,7 +17166,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17198,7 +17184,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "h"
@@ -17207,7 +17193,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "h"
@@ -17216,7 +17202,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "h"
@@ -17225,7 +17211,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "A",
@@ -17235,7 +17221,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17243,7 +17229,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17251,7 +17237,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17259,7 +17245,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17267,7 +17253,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17275,7 +17261,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17283,7 +17269,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "A",
@@ -17294,7 +17280,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "A",
@@ -17305,7 +17291,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17313,7 +17299,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17321,7 +17307,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "h",
@@ -17332,7 +17318,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17340,7 +17326,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17348,7 +17334,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17356,7 +17342,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17364,7 +17350,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17372,7 +17358,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17380,7 +17366,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17388,7 +17374,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17396,7 +17382,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17404,7 +17390,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17412,7 +17398,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17420,7 +17406,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17428,7 +17414,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17436,7 +17422,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "A"
@@ -17445,7 +17431,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "A",
@@ -17455,7 +17441,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17463,7 +17449,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "A",
@@ -17474,7 +17460,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "A",
@@ -17485,7 +17471,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17493,7 +17479,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17501,7 +17487,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17519,7 +17505,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "e"
@@ -17528,7 +17514,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "C7",
@@ -17538,7 +17524,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "F",
             "D7",
@@ -17549,7 +17535,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G7",
@@ -17560,7 +17546,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17568,7 +17554,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G"
@@ -17577,7 +17563,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "G7",
@@ -17587,7 +17573,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "C7",
@@ -17598,7 +17584,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "C",
             "G",
@@ -17609,7 +17595,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17617,7 +17603,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17625,7 +17611,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17633,7 +17619,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17641,7 +17627,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17649,7 +17635,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17667,7 +17653,7 @@ songBook = {
       "lines" : [
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17675,7 +17661,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "A"
@@ -17684,7 +17670,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "h",
             "fis"
@@ -17693,7 +17679,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "A",
@@ -17704,7 +17690,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
             "e",
             "G",
@@ -17716,7 +17702,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17724,7 +17710,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "fis"
@@ -17733,7 +17719,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "e",
@@ -17743,7 +17729,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "D",
             "fis"
@@ -17752,7 +17738,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "Fis"
@@ -17761,7 +17747,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17769,7 +17755,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "h"
           ],
@@ -17777,7 +17763,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G"
           ],
@@ -17785,7 +17771,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "A"
           ],
@@ -17793,7 +17779,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "D"
           ],
@@ -17801,7 +17787,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17809,7 +17795,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "e"
@@ -17818,7 +17804,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
             "Fis",
             "h",
@@ -17828,7 +17814,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17836,7 +17822,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17844,7 +17830,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17852,7 +17838,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17860,7 +17846,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17868,7 +17854,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17876,7 +17862,7 @@ songBook = {
         },
         {
           "indent" : 1,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17884,7 +17870,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17892,7 +17878,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "h",
             "G"
@@ -17901,7 +17887,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "A",
             "D"
@@ -17910,7 +17896,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "G",
             "e"
@@ -17919,7 +17905,7 @@ songBook = {
         },
         {
           "indent" : 2,
-          "notes" : "",
+          
           "guitarChords" : [
             "Fis",
             "h",
@@ -17929,7 +17915,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17937,7 +17923,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17945,7 +17931,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17953,7 +17939,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
@@ -17961,7 +17947,7 @@ songBook = {
         },
         {
           "indent" : 0,
-          "notes" : "",
+          
           "guitarChords" : [
 
           ],
