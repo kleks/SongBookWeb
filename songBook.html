@@ -8,6 +8,31 @@
   
   <link rel="stylesheet" href="style.css">
   
+  <!-- Firebase SDK -->
+  <script type="module">
+    import { initializeApp } from 'https://www.gstatic.com/firebasejs/9.22.0/firebase-app.js';
+    import { getFirestore, doc, getDoc, setDoc } from 'https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore.js';
+
+    // Firebase configuration (replace with your own)
+    const firebaseConfig = {
+      apiKey: "AIzaSyBjfaUlC2TIdQQt6dKwPSfZlrHvKg4ivkg",
+      authDomain: "songbookweb-52caa.firebaseapp.com",
+      projectId: "songbookweb-52caa",
+      storageBucket: "songbookweb-52caa.firebasestorage.app",
+      messagingSenderId: "886126065170",
+      appId: "1:886126065170:web:64458450f8210641124acb",
+      measurementId: "G-JWNJ07QMHE"
+    };
+
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    window.db = getFirestore(app);
+
+
+
+    
+  </script>
+  
   <script src="songBook.js"></script>
   <script src="dictionarys.js"></script>
   <script src="functions.js"></script>
@@ -15,28 +40,34 @@
 </head>
 
 <body>
-  <div id="filterDiv">
-    <label>Wyszukaj:</label>
-    <input type="text" id="filterInput" placeholder="Wpisz ...">
-    <label id="findedCount"></label>
+  <div id="wrapper">
+    <div id="filterDiv">
+      <label>Wyszukaj:</label>
+      <input type="text" id="filterInput" placeholder="Wpisz ...">
+      <label id="findedCount"></label>
+      <button class="add-btn" onclick="addNewSong()">➕ Dodaj</button>
+    </div>
+    <div id="contentDiv"></div>
   </div>
-  <div id="contentDiv"></div>
   <script>
-    songsHtml = ""
-    for (i = 0; i < songBook.songs.length; i++) {
-      songsHtml += songToHTML(i)
-    }
-    document.getElementById("contentDiv").innerHTML = songsHtml;
+    // Load from Firestore
+    loadSongBook().then(() => {
+      songsHtml = ""
+      for (i = 0; i < songBook.songs.length; i++) {
+        songsHtml += songToHTML(i)
+      }
+      document.getElementById("contentDiv").innerHTML = songsHtml;
 
-    // Attach the keyup listener after the input exists to avoid calling a missing global function
-    var filterInputEl = document.getElementById("filterInput");
-    if (filterInputEl) {
-      filterInputEl.addEventListener('keyup', function () {
-        if (typeof filterSongs === 'function') {
-          filterSongs();
-        }
-      });
-    }
+      // Attach the keyup listener after the input exists to avoid calling a missing global function
+      var filterInputEl = document.getElementById("filterInput");
+      if (filterInputEl) {
+        filterInputEl.addEventListener('keyup', function () {
+          if (typeof filterSongs === 'function') {
+            filterSongs();
+          }
+        });
+      }
+    });
   </script>
 </body>
 

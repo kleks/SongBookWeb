@@ -1,26 +1,30 @@
 body {
     font-family: "Georgia", Serif;
     font-size: 13px;
-    background-color: lightblue;
+    background-color: #f0f0f0;
 }
+
+#wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
 #filterDiv {
     position: sticky;
     top: 0px;
-    background-color: rgb(194, 226, 237);
-    border: 1px solid gray;
+    background-color: #e8e8e8;
+    border: 1px solid #ccc;
     padding: 5px;
     z-index: 100;
 }
+
 #contentDiv {
     width: 100%;
 }
 
-table,
-tr,
-td {
+table, tr, td {
     margin: 0px;
     padding: 0px;
-    /*border: solid orange 1px;*/
 }
 
 td {
@@ -29,30 +33,80 @@ td {
     white-space: pre;
 }
 
-div.vex-tabdiv {
-    height: 50px;
-
-    overflow: visible;
-    position: sticky;
-    margin-top: -19px;
+.songEditorTextarea {
+    font-family: 'Georgia', Serif;
+    font-size: 13px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 5px;
 }
 
-div.vex-tabdiv .vex-canvas {
-    float: ldeft;
+button {
+    font-family: 'Georgia', Serif;
+    font-size: 14px;
+    background-color: #f5f5f5;
+    color: #333;
+    border: 1px solid #ccc;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
 }
 
-div.vex-tabdiv .editor {
-    visibility: hidden;
-    background-color: green;
+button:hover {
+    background-color: #e0e0e0;
 }
 
-div.vex-tabdiv .editor-error {
-    font-family: "Lucida Console", Monaco, monospace;
-    font-size: 8px;
-    color: white;
-    background-color: red;
-    white-space: pre;
-    position: sticky;
-    margin-top: -200px;
-    background-color: red;
+button.edit-btn {
+    background-color: #e3f2fd;
+    color: #1565c0;
+}
+
+button.edit-btn:hover {
+    background-color: #bbdefb;
+}
+
+button.delete-btn {
+    background-color: #ffebee;
+    color: #c62828;
+}
+
+button.delete-btn:hover {
+    background-color: #ffcdd2;
+}
+
+button.save-btn {
+    background-color: #e8f5e8;
+    color: #2e7d32;
+}
+
+button.save-btn:hover {
+    background-color: #c8e6c9;
+}
+
+button.cancel-btn {
+    background-color: #f5f5f5;
+    color: #616161;
+}
+
+button.cancel-btn:hover {
+    background-color: #e0e0e0;
+}
+
+button.add-btn {
+    background-color: #fff3e0;
+    color: #ef6c00;
+}
+
+button.add-btn:hover {
+    background-color: #ffe0b2;
+}
+
+.songTable {
+    width: auto;
+    max-width: 100%;
 }

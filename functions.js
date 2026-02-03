@@ -1,4 +1,3 @@
-
 function getTranspositionButtons(songIndex, transpositionDegree, transpositionSemitone) {
     song = songBook.songs[songIndex]
     text = ""
@@ -79,28 +78,6 @@ function transposeChord(originalChord, transpositionDegree, transpositionSemiton
         return originalChord
     }
 }
-function transposeNotes(originalNotes, transpositionDegree, transpositionSemitone) {
-    var transposedNotes = "tabstave notation=true tablature=false \nnotes :1 " + originalNotes
-    for (noteOriginal of notes) {
-        for (noteTransposed of notes) {
-            if (noteTransposed["degree"] == (noteOriginal["degree"] + transpositionDegree) % 7 &&
-                noteTransposed["semitone"] == (noteOriginal["semitone"] + transpositionSemitone) % 12) {
-                for (oktave = 2; oktave < 7; oktave++) {
-                    var oktaveChange = 0;
-                    if (noteOriginal["degree"] + transpositionDegree >= 7) {
-                        oktaveChange += 1;
-                    }
-                    if (transpositionSemitone > 6) {
-                        oktaveChange -= 1;
-                    }
-                    transposedNotes = transposedNotes.replace(new RegExp(" " + noteOriginal.nameNote + oktave, 'g'), " " + noteTransposed.nameVexFlow + '/' + (oktave + oktaveChange))
-                }
-            }
-        }
-    }
-
-    return transposedNotes
-}
 function transposeSong(songIndex, transpositionDegree, transpositionSemitone) {
     song = songBook.songs[songIndex]
 
@@ -108,15 +85,6 @@ function transposeSong(songIndex, transpositionDegree, transpositionSemitone) {
     for (j = 0; j < song.lines.length; j++) {
         for (k = 0; k < song.lines[j].guitarChords.length; k++) {
             document.getElementById('chord_' + songIndex + '_' + j + '_' + k).innerHTML = transposeChord(song.lines[j].guitarChords[k], transpositionDegree, transpositionSemitone)
-        }
-        var notesDiv = document.getElementById('notes_' + songIndex + '_' + j)
-        if (notesDiv != null) {
-            notesEditor = notesDiv.getElementsByClassName('editor')[0]
-            notesEditor.value = transposeNotes(song.lines[j].notes, transpositionDegree, transpositionSemitone)
-            var evt = document.createEvent('Events');
-            evt.initEvent('keyup', true, true);
-            evt.view = window;
-            notesEditor.dispatchEvent(evt);
         }
     }
 }
@@ -129,19 +97,16 @@ function songToHTML(songIndex) {
     cols = Math.max.apply(Math, song.lines.map(function (i) { return i.guitarChords.length + i.indent }))
 
     text = "<div class='songContainer' id='Song_" + i + "'>"
-    text += "<table style='width:100%;'><tr><td style='font-size: 9px;'>"
+    text += "<table class='songTable'><tr><td style='font-size: 9px;'>"
     text += "<span id='transpositionButtons_" + songIndex + "'>" + getTranspositionButtons(songIndex, 0, 0); + "</span>"
     text += "</td><td style='text-align: right; style='font-size: 9px;' rowspan='2'>"
     text += (song.singer != "") ? ("Wykonawca: " + song.singer + "<br/>") : ""
     text += (song.composer != "") ? ("Muzyka: " + song.composer + "<br/>") : ""
     text += (song.songwriter != "") ? ("Słowa: " + song.songwriter + "<br/>") : ""
     text += "</td></tr><tr><td style='font-size: 20px; font-weight: bold;'>"
-    if (song.link != "") {
-        text += "<a href='" + song.link + "' target='blank '>" + song.title + "</a>"
-    }
-    else {
-        text += song.title
-    }
+    text += song.title
+    text += " <button class='edit-btn' onclick='editSong(" + songIndex + ")'>✏️ Edytuj</button>";
+    text += " <button class='delete-btn' onclick='deleteSong(" + songIndex + ")'>🗑️ Usuń</button>";
     text += "</td></tr></table>"
 
     text += "<table style='margin-top: 30px;'>"
@@ -180,17 +145,6 @@ function songToHTML(songIndex) {
         for (k = 0; k < cols - line.indent - line.guitarChords.length; k++) {
             text += "<td></td>"
         }
-        if (line.notes.length > 0) {
-            text += "<td style='padding-left: " + (line.indent * 20) + "px;'><span id='notes_" + songIndex + "_" + j + "'><div class='vex-tabdiv' scale='0.5' editor='true'>" +
-                "<canvas class='vex-canvas'></canvas>" +
-                "<pre><div class='editor-error'></div><pre>" +
-                //"<textarea class='editor' >tabstave notation=true tablature=false clef=treble key=Gm time=2/4 \nnotes " + line.notes + "</textarea>" +
-                "<textarea class='editor' >" + transposeNotes(line.notes, 0, 0) + "</textarea>" +
-                "</div></span></td>"
-        }
-        else {
-            text += "<td></td>"
-        }
         text += "</tr>"
     }
     text += "</table>"
@@ -214,4 +168,218 @@ function filterSongs() {
         }
     }
     document.getElementById("findedCount").innerText = findedCount + "/" + songs.length
+}
+
+function editSong(songIndex) {
+    var song;
+    var isNew = false;
+    if (songIndex === -1) {
+        song = {
+            title: '',
+            singer: '',
+            composer: '',
+            songwriter: '',
+            key: '',
+            lines: []
+        };
+        isNew = true;
+    } else {
+        song = songBook.songs[songIndex];
+    }
+    var editorDiv = document.getElementById('editorDiv');
+    if (!editorDiv) {
+        editorDiv = document.createElement('div');
+        editorDiv.id = 'editorDiv';
+        editorDiv.style.position = 'fixed';
+        editorDiv.style.top = '0';
+        editorDiv.style.left = '0';
+        editorDiv.style.width = '100%';
+        editorDiv.style.height = '100%';
+        editorDiv.style.backgroundColor = 'rgba(0,0,0,0.5)';
+        editorDiv.style.zIndex = '1000';
+        editorDiv.style.display = 'flex';
+        editorDiv.style.justifyContent = 'center';
+        editorDiv.style.alignItems = 'center';
+        document.body.appendChild(editorDiv);
+    }
+    var songText = isNew ? `Tytuł: Nowa Piosenka\nWykonawca: ---\nMuzyka: ---\nSłowa: ---\nKlucz: C\n` : toSongText(song);
+    editorDiv.innerHTML = `
+        <div style="background: white; padding: 20px; border-radius: 10px; max-width: 800px; max-height: 80%; overflow-y: auto;">
+            <h2>${isNew ? 'Dodaj nową piosenkę' : 'Edytuj piosenkę'}</h2>
+            <h3>Tekst piosenki (z metadanymi i liniami w formacie tekst|akordy):</h3>
+            <textarea id="editSongText" rows="25" cols="80" class="songEditorTextarea">${songText}</textarea><br>
+            <button class="save-btn" onclick="saveSong(${songIndex})">💾 Zapisz</button>
+            <button class="cancel-btn" onclick="closeEditor()">❌ Anuluj</button>
+        </div>
+    `;
+    editorDiv.style.display = 'flex';
+}
+
+function saveSong(songIndex) {
+    var song;
+    var isNew = false;
+    if (songIndex === -1) {
+        song = {
+            title: '',
+            singer: '',
+            composer: '',
+            songwriter: '',
+            key: '',
+            lines: []
+        };
+        isNew = true;
+    } else {
+        song = songBook.songs[songIndex];
+    }
+    
+    var songText = document.getElementById('editSongText').value;
+    var parsed = parseSongText(songText);
+    if (parsed.errors && parsed.errors.length > 0) {
+        alert("Błędy walidacji:\n" + parsed.errors.join('\n'));
+        return;
+    }
+    if (!parsed.metadata.title) {
+        alert("Tytuł jest obowiązkowy!");
+        return;
+    }
+    song.title = parsed.metadata.title;
+    song.singer = parsed.metadata.singer || '';
+    song.composer = parsed.metadata.composer || '';
+    song.songwriter = parsed.metadata.songwriter || '';
+    song.key = parsed.metadata.key || '';
+    song.lines = parsed.lines;
+    
+    if (isNew) {
+        songBook.songs.unshift(song);
+    } else {
+        songBook.songs[songIndex] = song;
+    }
+    
+    // Save to Firestore
+    saveSongBook();
+    
+    // Refresh display
+    refreshSongs();
+    filterSongs(); // Reapply current filter
+    closeEditor();
+}
+
+function toSongText(song) {
+    var text = '';
+    if (song.title) text += 'Tytuł: ' + song.title + '\n';
+    if (song.singer) text += 'Wykonawca: ' + song.singer + '\n';
+    if (song.composer) text += 'Muzyka: ' + song.composer + '\n';
+    if (song.songwriter) text += 'Słowa: ' + song.songwriter + '\n';
+    if (song.key) text += 'Klucz: ' + song.key + '\n';
+    //text += '\n';
+    song.lines.forEach(line => {
+        var indentStr = ' '.repeat(line.indent * 4);
+        var chordsStr = line.guitarChords ? line.guitarChords.join(' ') : '';
+        text += indentStr + line.lirics + (chordsStr ? '|' + chordsStr : '') + '\n';
+    });
+    return text.trim();
+}
+
+function parseSongText(text) {
+    var lines = [];
+    var metadata = {};
+    var errors = [];
+    var textLines = text.split('\n');
+    var i = 0;
+    while (i < textLines.length) {
+        var line = textLines[i];
+        var trimmed = line.trim();
+        var spaces = line.length - line.trimStart().length;
+        var indent = Math.floor(spaces / 4);
+        if (trimmed === '') {
+            // empty line
+            lines.push({
+                indent: indent,
+                lirics: '',
+                guitarChords: []
+            });
+        } else if (trimmed.toLowerCase().startsWith('tytuł: ')) {
+            if (!metadata.title) metadata.title = trimmed.substring(trimmed.toLowerCase().indexOf('tytuł: ') + 7).trim();
+        } else if (trimmed.toLowerCase().startsWith('wykonawca: ')) {
+            if (!metadata.singer) metadata.singer = trimmed.substring(trimmed.toLowerCase().indexOf('wykonawca: ') + 11).trim();
+        } else if (trimmed.toLowerCase().startsWith('muzyka: ')) {
+            if (!metadata.composer) metadata.composer = trimmed.substring(trimmed.toLowerCase().indexOf('muzyka: ') + 7).trim();
+        } else if (trimmed.toLowerCase().startsWith('słowa: ')) {
+            if (!metadata.songwriter) metadata.songwriter = trimmed.substring(trimmed.toLowerCase().indexOf('słowa: ') + 6).trim();
+        } else if (trimmed.toLowerCase().startsWith('klucz: ')) {
+            if (!metadata.key) metadata.key = trimmed.substring(trimmed.toLowerCase().indexOf('klucz: ') + 6).trim();
+        } else if (trimmed.includes('|')) {
+            var parts = trimmed.split('|');
+            var lirics = parts[0].trim();
+            var chords = parts[1] ? parts[1].trim().split(/\s+/) : [];
+            chords.forEach(chord => {
+                if (!(chord in chordsDictionary)) {
+                    errors.push("Akord '" + chord + "' w linii " + (i + 1) + " nie jest poprawny");
+                }
+            });
+            lines.push({
+                indent: indent,
+                lirics: lirics,
+                guitarChords: chords
+            });
+        } else {
+            // line without |, just lyrics
+            lines.push({
+                indent: indent,
+                lirics: trimmed,
+                guitarChords: []
+            });
+        }
+        i++;
+    }
+    return { metadata: metadata, lines: lines, errors: errors };
+}
+
+function closeEditor() {
+    document.getElementById('editorDiv').style.display = 'none';
+}
+
+function addNewSong() {
+    editSong(-1);
+}
+
+function refreshSongs() {
+    var songsHtml = "";
+    for (var i = 0; i < songBook.songs.length; i++) {
+        songsHtml += songToHTML(i);
+    }
+    document.getElementById("contentDiv").innerHTML = songsHtml;
+}
+
+function deleteSong(songIndex) {
+    if (confirm('Czy na pewno chcesz usunąć tę piosenkę?')) {
+        songBook.songs.splice(songIndex, 1);
+        saveSongBook();
+        refreshSongs();
+    }
+}
+
+// Firebase functions
+async function loadSongBook() {
+    try {
+        const docRef = doc(window.db, 'songbooks', 'shared');
+        const docSnap = await getDoc(docRef);
+        if (docSnap.exists()) {
+            songBook = docSnap.data();
+        } else {
+            // Default songBook if not exists
+            songBook = { songs: [] };
+        }
+    } catch (error) {
+        console.error("Error loading songbook:", error);
+        songBook = { songs: [] };
+    }
+}
+
+async function saveSongBook() {
+    try {
+        await setDoc(doc(window.db, 'songbooks', 'shared'), songBook);
+    } catch (error) {
+        console.error("Error saving songbook:", error);
+    }
 }
