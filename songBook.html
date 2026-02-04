@@ -56,6 +56,26 @@
       }
     };
 
+    // Load and initialize
+    window.onload = async function() {
+      await window.loadSongBook();
+      var songsHtml = "";
+      for (var i = 0; window.songBook.songs.length; i++) {
+        songsHtml += window.songToHTML(i);
+      }
+      document.getElementById("contentDiv").innerHTML = songsHtml;
+
+      // Attach the keyup listener
+      var filterInputEl = document.getElementById("filterInput");
+      if (filterInputEl) {
+        filterInputEl.addEventListener('keyup', function () {
+          if (typeof window.filterSongs === 'function') {
+            window.filterSongs();
+          }
+        });
+      }
+    };
+
 
 
     
@@ -77,26 +97,7 @@
     </div>
     <div id="contentDiv"></div>
   </div>
-  <script>
-    // Load from Firestore
-    loadSongBook().then(() => {
-      songsHtml = ""
-      for (i = 0; i < songBook.songs.length; i++) {
-        songsHtml += songToHTML(i)
-      }
-      document.getElementById("contentDiv").innerHTML = songsHtml;
-
-      // Attach the keyup listener after the input exists to avoid calling a missing global function
-      var filterInputEl = document.getElementById("filterInput");
-      if (filterInputEl) {
-        filterInputEl.addEventListener('keyup', function () {
-          if (typeof filterSongs === 'function') {
-            filterSongs();
-          }
-        });
-      }
-    });
-  </script>
+  
 </body>
 
 </html>

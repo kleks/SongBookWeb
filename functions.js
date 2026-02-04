@@ -88,7 +88,7 @@ function transposeSong(songIndex, transpositionDegree, transpositionSemitone) {
         }
     }
 }
-function songToHTML(songIndex) {
+window.songToHTML = function(songIndex) {
     song = songBook.songs[songIndex]
 
     maxChords = Math.max.apply(Math, song.lines.map(function (i) { return i.guitarChords.length }))
@@ -153,7 +153,7 @@ function songToHTML(songIndex) {
     return text
 }
 
-function filterSongs() {
+window.filterSongs = function() {
     var filter = document.getElementById("filterInput").value.toLowerCase();
     var contentDiv = document.getElementById("contentDiv");
     var songs = contentDiv.getElementsByClassName("songContainer");
@@ -339,7 +339,7 @@ function closeEditor() {
     document.getElementById('editorDiv').style.display = 'none';
 }
 
-function addNewSong() {
+window.addNewSong = function() {
     editSong(-1);
 }
 
