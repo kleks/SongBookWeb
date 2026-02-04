@@ -39,12 +39,15 @@
         if (docSnap.exists()) {
           window.songBook = docSnap.data();
         } else {
-          // Default songBook if not exists
-          window.songBook = { songs: [] };
+          // Load default songs from songBook.js
+          window.songBook = songBook;
+          // Save to Firestore
+          await window.saveSongBook();
         }
       } catch (error) {
         console.error("Error loading songbook:", error);
-        window.songBook = { songs: [] };
+        // Fallback to default
+        window.songBook = songBook;
       }
     };
 
