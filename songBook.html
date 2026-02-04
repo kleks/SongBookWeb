@@ -60,7 +60,7 @@
     window.onload = async function() {
       await window.loadSongBook();
       var songsHtml = "";
-      for (var i = 0; window.songBook.songs.length; i++) {
+      for (var i = 0; i < window.songBook.songs.length; i++) {
         songsHtml += window.songToHTML(i);
       }
       document.getElementById("contentDiv").innerHTML = songsHtml;

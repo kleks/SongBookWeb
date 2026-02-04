@@ -96,7 +96,7 @@ window.songToHTML = function(songIndex) {
 
     cols = Math.max.apply(Math, song.lines.map(function (i) { return i.guitarChords.length + i.indent }))
 
-    text = "<div class='songContainer' id='Song_" + i + "'>"
+    text = "<div class='songContainer' id='Song_" + songIndex + "'>"
     text += "<table class='songTable'><tr><td style='font-size: 9px;'>"
     text += "<span id='transpositionButtons_" + songIndex + "'>" + getTranspositionButtons(songIndex, 0, 0); + "</span>"
     text += "</td><td style='text-align: right; style='font-size: 9px;' rowspan='2'>"
