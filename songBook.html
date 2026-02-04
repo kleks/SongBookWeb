@@ -31,6 +31,31 @@
     window.getDoc = getDoc;
     window.setDoc = setDoc;
 
+    // Firebase functions
+    window.loadSongBook = async function() {
+      try {
+        const docRef = window.doc(window.db, 'songbooks', 'shared');
+        const docSnap = await window.getDoc(docRef);
+        if (docSnap.exists()) {
+          window.songBook = docSnap.data();
+        } else {
+          // Default songBook if not exists
+          window.songBook = { songs: [] };
+        }
+      } catch (error) {
+        console.error("Error loading songbook:", error);
+        window.songBook = { songs: [] };
+      }
+    };
+
+    window.saveSongBook = async function() {
+      try {
+        await window.setDoc(window.doc(window.db, 'songbooks', 'shared'), window.songBook);
+      } catch (error) {
+        console.error("Error saving songbook:", error);
+      }
+    };
+
 
 
     

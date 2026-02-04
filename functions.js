@@ -359,27 +359,4 @@ function deleteSong(songIndex) {
     }
 }
 
-// Firebase functions
-async function loadSongBook() {
-    try {
-        const docRef = doc(window.db, 'songbooks', 'shared');
-        const docSnap = await getDoc(docRef);
-        if (docSnap.exists()) {
-            songBook = docSnap.data();
-        } else {
-            // Default songBook if not exists
-            songBook = { songs: [] };
-        }
-    } catch (error) {
-        console.error("Error loading songbook:", error);
-        songBook = { songs: [] };
-    }
-}
-
-async function saveSongBook() {
-    try {
-        await setDoc(doc(window.db, 'songbooks', 'shared'), songBook);
-    } catch (error) {
-        console.error("Error saving songbook:", error);
-    }
-}
+// Firebase functions moved to songBook.html
