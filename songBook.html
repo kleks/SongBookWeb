@@ -59,26 +59,6 @@
       }
     };
 
-    // Load and initialize
-    window.onload = async function() {
-      await window.loadSongBook();
-      var songsHtml = "";
-      for (var i = 0; i < window.songBook.songs.length; i++) {
-        songsHtml += window.songToHTML(i);
-      }
-      document.getElementById("contentDiv").innerHTML = songsHtml;
-
-      // Attach the keyup listener
-      var filterInputEl = document.getElementById("filterInput");
-      if (filterInputEl) {
-        filterInputEl.addEventListener('keyup', function () {
-          if (typeof window.filterSongs === 'function') {
-            window.filterSongs();
-          }
-        });
-      }
-    };
-
 
 
     
@@ -100,6 +80,32 @@
     </div>
     <div id="contentDiv"></div>
   </div>
+  
+  <script>
+    // Load and initialize after all scripts loaded
+    window.addEventListener('load', async function() {
+      await window.loadSongBook();
+      if (!window.songBook || !window.songBook.songs) {
+        console.error("songBook not loaded");
+        return;
+      }
+      var songsHtml = "";
+      for (var i = 0; i < window.songBook.songs.length; i++) {
+        songsHtml += window.songToHTML(i);
+      }
+      document.getElementById("contentDiv").innerHTML = songsHtml;
+
+      // Attach the keyup listener
+      var filterInputEl = document.getElementById("filterInput");
+      if (filterInputEl) {
+        filterInputEl.addEventListener('keyup', function () {
+          if (typeof window.filterSongs === 'function') {
+            window.filterSongs();
+          }
+        });
+      }
+    });
+  </script>
   
 </body>
 
